@@ -1,0 +1,31 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Teaching"
+    url: /teaching/  
+    
+  - title: "Tools & Code"
+    url: /tool_code/ 
+    
+  - title: "Dataset"
+    url: /dataset/
+    
+  - title: "About Me"
+    url: /cv/
+
+
+
+
+#  - title: "Talks"
+#    url: /talks/      
+    
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+#  - title: "Guide"
+#    url: /markdown/
