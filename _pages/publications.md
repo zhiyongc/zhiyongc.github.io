@@ -40,7 +40,7 @@ author_profile: true
 
 * **Cui, Z.**, Long, Y., Ke, R., & Wang, Y.* (2015). [Characterizing evolution of extreme public transit behavior using smart card data](https://ieeexplore.ieee.org/document/7366217). *IEEE International Smart Cities Conference (ISC2)*, (pp. 1-6).
 
-* **Cui, Z.**, and Long, Y.* (2015). Perspectives on Stability and Mobility of Passenger’s Travel Behavior through Smart Card Data. *ACM SIGKDD International Workshop on Urban Computing ([UrbComp 2015](https://www.cs.uic.edu/~urbcomp2013/urbcomp2015/accept.html))*. [arXiv](https://arxiv.org/abs/1508.06033)
+* **Cui, Z.**, and Long, Y.* (2015). Perspectives on Stability and Mobility of Passenger’s Travel Behavior through Smart Card Data. *ACM SIGKDD International Workshop on Urban Computing ([UrbComp 2015](https://www.cs.uic.edu/~urbcomp2013/urbcomp2015/accept.html))*. \[[arXiv](https://arxiv.org/abs/1508.06033)\]
 
 * **Cui, Z.**, Yang, S. W., & Tsai, H. M. (2015). [A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition](https://ieeexplore.ieee.org/document/7313248). *IEEE International Conference on Intelligent Transportation Systems (ITSC)*, (pp. 931-937). \[[data](https://github.com/zhiyongc/Vehicle-Rear-Light-Data)\] \[[demo](https://www.youtube.com/watch?v=CPfXCHWMZW8)\]
 
