@@ -16,7 +16,9 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 * Spatiotemporal Data Analysis, Geospatial Map Conflation, Transportation Data Platforms, etc.
 
 ## Selected Research on Deep Learning based Traffic Prediction and Data Imputation
-1. **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *Transportation Research Board 98th Annual Meeting* (submitted to *IEEE Transaction on Intelligent Transportation Systems*; under review). \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]\[[slides](https://drive.google.com/file/d/1FxmyG88cAD3gO7pbEmor4uq3fINAK2yP/view?usp=sharing)\]
+1. **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. (submitted to *IEEE Transaction on Intelligent Transportation Systems*; under review). \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
+
+<!--\[[slides](https://drive.google.com/file/d/1FxmyG88cAD3gO7pbEmor4uq3fINAK2yP/view?usp=sharing)\] -->
 
 2. **Cui, Z.**, Ke, R., & Wang, Y.\* (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. *ACM SIGKDD International Workshop on Urban Computing 2017* (submitted to *IEEE Transaction on Intelligent Transportation Systems*; under review). \[[arXiv](https://arxiv.org/abs/1801.02143)\]\[[code](https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]\[[video](http://videolectures.net/zhiyong_cui/)\]
 
