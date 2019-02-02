@@ -22,7 +22,8 @@ author_profile: true
 
 * Ma, X., Li, Y., **Cui, Z.**, Wang, Y. (2019). Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models. Submitted to *Neurocomputing* (submitted to journal under review). \[[arXiv](https://arxiv.org/abs/1811.04745)\]
 
-* **Cui, Z.**, Ke, R., & Wang, Y.\* (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. *ACM SIGKDD International Workshop on Urban Computing 2017* (presented without copyright; submitted to journal under review). \[[arXiv](https://arxiv.org/abs/1801.02143)\]\[[code](https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]\[[video](https://www.youtube.com/watch?v=fKSijaXq9qM)\]
+* **Cui, Z.**, Ke, R., & Wang, Y.\* (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. *ACM SIGKDD International Workshop on Urban Computing 2017* (presented without copyright; submitted to journal under review). \[[arXiv](https://arxiv.org/abs/1801.02143)\]\[[code](https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
+<!--\[[video](https://www.youtube.com/watch?v=fKSijaXq9qM)\]-->
 
 * Liang, Y., **Cui, Z.**, Tian, Y., Chen, H., & Wang, Y.\* (2018). A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*. \[[arXiv](https://arxiv.org/abs/1801.03818)\]
 
