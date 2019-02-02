@@ -26,4 +26,4 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 3. Liang, Y., **Cui, Z.**, Tian, Y., Chen, H., & Wang, Y.\* (2018). A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*. \[[arXiv](https://arxiv.org/abs/1801.03818)\]
 
 ## Selected Research on Geospatial Transportation Data Integration
-1. **Cui, Z.**, Henrickson, K., Pu, Z., Guo, G., & Wang, Y.\* (2019). A New Multi-Source Traffic Data Integration Framework for Traffic Analysis and Performance Measurement. *Transportation Research Board 98th Annual Meeting*.\[[slides](https://drive.google.com/file/d/1SB-0zUTPWSa8xUsRmZxt_s1msCXbPQyh/view?usp=sharing)\]
+1. **Cui, Z.**, Henrickson, K., Pu, Z., Guo, G., & Wang, Y.\* (2019). A New Multi-Source Traffic Data Integration Framework for Traffic Analysis and Performance Measurement. *Transportation Research Board 98th Annual Meeting*. \[[slides](https://drive.google.com/file/d/1SB-0zUTPWSa8xUsRmZxt_s1msCXbPQyh/view?usp=sharing)\]
