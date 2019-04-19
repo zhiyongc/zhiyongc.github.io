@@ -103,12 +103,12 @@ author:
   avatar           : "word cloud.png"
   bio              : "PhD Candidate in Transportation Data Mining & Deep Learning"
   location         : "Seattle, WA"
-  employer         : # "University of Washington"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  employer         : "University of Washington"
+  googlescholar    : "https://scholar.google.com/citations?user=jytR7oAAAAAJ&hl=en&oi=ao"
   email            : "zhiyongc@uw.edu"
   researchgate     : "https://www.researchgate.net/profile/Zhiyong_Cui2/" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://students.washington.edu/zhiyongc/"
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/Zhiyongc/"
   codepen          :
   dribbble         :
   flickr           :
