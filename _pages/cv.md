@@ -9,20 +9,26 @@ redirect_from:
 
 <!--{% include base_path %}-->
 
-Education
+Curriculum Vitae
 ======
-[CV](http://english.pku.edu.cn/)
+[CV](https://zhiyongc.github.io/files/CV.pdf)
 
 Education
 ======
-* B.S. in Software Engineering, [Beihang University](https://ev.buaa.edu.cn/), 2012
-* M.S. in Software Engineering, [Peking University](http://english.pku.edu.cn/), 2015
-* Visiting Student in Deparment of Computer Science, [National Taiwan University](http://www.ntu.edu.tw/english/), Jan. to July, 2013
 * Ph.D in Civil Engineering (Transportation Engineering), [University of Washington](https://www.washington.edu/), 2020 (expected)
+* Visiting Student in Deparment of Computer Science, [National Taiwan University](http://www.ntu.edu.tw/english/), Jan. to July, 2014
+* M.S. in Software Engineering, [Peking University](http://english.pku.edu.cn/), 2015
+* B.S. in Software Engineering, [Beihang University](https://ev.buaa.edu.cn/), 2012
 
-Work experience
+Professional Experience
 ======
-* Research Assistant: July 2018 - Present
+* Research Assistant: July 2019 - Present
+  * University of Washington 
+  * Project: Pierce Transit automated collision avoidance system evaluation project
+  * Duties included: Developing Transit Event Logging System (TELS) that can detect and log near-miss events in real-time based on Nvidia Jetson TX2.
+  * Supervisor: Prof. Yinhai Wang
+
+* Research Assistant: July 2018 - June 2019
   * University of Washington 
   * Project: Artificial Intelligent Platform for Traffic Congestion and Prediction funded by [C2SMART](http://c2smart.engineering.nyu.edu/)
   * Duties included: Research on efficient spatiotemporal feature extraction for traffic network. Develop online public platform for running and testing AI models.
