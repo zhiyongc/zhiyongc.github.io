@@ -54,6 +54,13 @@ author_profile: true
 18.	Gao Y, Swaminathan K, **Cui Z**, Su, L. (2015) Predictive Traffic Assignment: A New Method and System for Optimal Balancing of Road Traffic. *IEEE 18th International Conference on Intelligent Transportation Systems* (ITSC), (pp. 400-407).
 19.	**Cui Z**, Wang C, Tsai H M. (2014) Characterizing channel fading in vehicular visible light communications with video data. *IEEE Vehicular Networking Conference* (VNC), (pp. 226-229).
 20. **Cui Z**, Yang S W, Wang C, Tsai H M. (2014) On addressing driving inattentiveness: Robust rear light status classification using hierarchical matching pursuit. *IEEE 17th International Conference on Intelligent Transportation Systems* (ITSC), (pp. 2243-2244).
+
+## Technical Report
+1.	Wang Y, Ban X, **Cui Z**, Zhu M. (2019) An artificial intelligence platform for network-wide congestion detection and prediction using multi-source data. Connected Cities and Smart Mobility (C2SMART) Research Report (USDOT award number: 69A3551747124)
+2.	Wang Y, **Cui Z**, Henrickson, K. (2018) Pilot Testing of SHRP2 Reliability Data and Analytical Products: Washington. SHRP2 Reliability Project L38 Report.
+3.	Hallenbeck M, Ishimaru J, **Cui Z**, Wang Y, Wright D, Zhang W, Henrickson K. (2017) Implementing the Routine Computation and Use of Roadway Performance Measures Within WSDOT. SHRP2 PM Software Research Report. (Grant number: Agreement T1461, Task 16)
+4.	Wang Y, Ke R, Zhang W, **Cui Z**, Henrickson K. (2016) Digital roadway interactive visualization and evaluation network applications to WSDOT operational data usage. Washington State Department of Transportation (WSDOT) Research Report (Report number: WA-RD 854.1).
+
 <!--
 ## Selected Peer-reviewed Papers
 * **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *Transportation Research Board 98th Annual Meeting* (presented as an Extended Abstract; submitted to journal under review). \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
