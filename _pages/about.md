@@ -23,8 +23,8 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 * Intelligent Transportation Systems
 
 ## Recent Papers
-1.	**Cui Z**, Long Y*. (2019) Perspectives on Stability and Mobility of Transit Passenger’s Travel Behaviour through Smart Card Data. *IET Intelligent Transport Systems* (in press). (doi: [10.1049/iet-its.2019.0212](https://doi.org/10.1049/iet-its.2019.0212))
-2.	**Cui Z**, Henrickson K, Biancardo S, Pu Z, Wang Y*. (2019) Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics. *Journal of Transportation Engineering, Part A: Systems* (accepted). (doi: [10.1061/JTEPBS.0000331](https://doi.org/10.1061/JTEPBS.0000331))
+1.	<u>**Cui Z**</u>, Long Y*. (2019) Perspectives on Stability and Mobility of Transit Passenger’s Travel Behaviour through Smart Card Data. *IET Intelligent Transport Systems* (in press). (doi: [10.1049/iet-its.2019.0212](https://doi.org/10.1049/iet-its.2019.0212))
+2.	**<u>Cui Z</u>**, Henrickson K, Biancardo S, Pu Z, Wang Y*. (2019) Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics. *Journal of Transportation Engineering, Part A: Systems* (accepted). (doi: [10.1061/JTEPBS.0000331](https://doi.org/10.1061/JTEPBS.0000331))
 
 
 ## Selected Research on Deep Learning based Traffic Prediction and Data Imputation
