@@ -11,6 +11,10 @@ redirect_from:
 
 Education
 ======
+[CV](http://english.pku.edu.cn/)
+
+Education
+======
 * B.S. in Software Engineering, [Beihang University](https://ev.buaa.edu.cn/), 2012
 * M.S. in Software Engineering, [Peking University](http://english.pku.edu.cn/), 2015
 * Visiting Student in Deparment of Computer Science, [National Taiwan University](http://www.ntu.edu.tw/english/), Jan. to July, 2013
