@@ -10,10 +10,22 @@ redirect_from:
 
 I am a PhD Candidate in the [Smart Transportation Application and Research Lab](http://www.uwstarlab.org/) (STAR Lab) in the Department of Civil & Environmental Engineering at [University of Washington](https://www.washington.edu/) advised by Prof. [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). I received my Master degree in Software Engineering from [Peking University](http://english.pku.edu.cn/) advised by Dr. Ying Huang and Prof. Tong Mo and earned a Bachelor degree in Software Engineering from [Beihang University](https://ev.buaa.edu.cn/). During my Master study, I worked as a visiting student in the College of Electrical Engineering and Computer Science at [National Taiwan University](http://www.ntu.edu.tw/english/) advised by Prof. [Hsin-Mu (Michael) Tsai](https://www.csie.ntu.edu.tw/~hsinmu/wiki/).
 
+[Curriculum Vitae(https://zhiyongc.github.io/files/CV.pdf)]
+
+## News
+
 ## Research Focus
-* Deep Learning Modeling and Applications in Transportation, including Graph Convolution Neural Network (NN), recurrent NN, Generative Adversarial Network, etc. 
-* Traffic Prediction, Traffic Network Modeling, Tarffic Data Imputation, etc.
-* Spatiotemporal Data Analysis, Geospatial Map Conflation, Transportation Data Platforms, etc.
+* Basic and Applied Research on Machine Learning and Deep Learning
+* Urban Computing 
+* Spatiotemporal (Traffic State) Data Modeling/Prediction
+* Transportation Data Science
+* Connected Vehicles and Autonomous Driving 
+* Intelligent Transportation Systems
+
+## Recent Papers
+1.	**Cui Z**, Long Y*. (2019) Perspectives on Stability and Mobility of Transit Passenger’s Travel Behaviour through Smart Card Data. *IET Intelligent Transport Systems* (in press). (doi: 10.1049/iet-its.2019.0212)
+2.	**Cui Z**, Henrickson K, Biancardo S, Pu Z, Wang Y*. (2019) Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics. *Journal of Transportation Engineering, Part A: Systems* (accepted). (doi: 10.1061/JTEPBS.0000331)
+
 
 ## Selected Research on Deep Learning based Traffic Prediction and Data Imputation
 1. **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. (submitted to *IEEE Transaction on Intelligent Transportation Systems*; under review). \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
@@ -25,5 +37,5 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 
 3. Liang, Y., **Cui, Z.**, Tian, Y., Chen, H., & Wang, Y.\* (2018). A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*. \[[arXiv](https://arxiv.org/abs/1801.03818)\]
 
-## Selected Research on Geospatial Transportation Data Integration
-1. **Cui, Z.**, Henrickson, K., Pu, Z., Guo, G., & Wang, Y.\* (2019). A New Multi-Source Traffic Data Integration Framework for Traffic Analysis and Performance Measurement. *Transportation Research Board 98th Annual Meeting*. \[[slides](https://drive.google.com/file/d/1SB-0zUTPWSa8xUsRmZxt_s1msCXbPQyh/view?usp=sharing)\]
+<!-- ## Selected Research on Geospatial Transportation Data Integration
+1. **Cui, Z.**, Henrickson, K., Pu, Z., Guo, G., & Wang, Y.\* (2019). A New Multi-Source Traffic Data Integration Framework for Traffic Analysis and Performance Measurement. *Transportation Research Board 98th Annual Meeting*. \[[slides](https://drive.google.com/file/d/1SB-0zUTPWSa8xUsRmZxt_s1msCXbPQyh/view?usp=sharing)\] -->
