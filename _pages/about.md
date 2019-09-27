@@ -12,8 +12,6 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 
 [[Curriculum Vitae](https://zhiyongc.github.io/files/CV.pdf)]
 
-## News
-
 ## Research Focus
 * Basic and Applied Research on Machine Learning and Deep Learning
 * Urban Computing 
