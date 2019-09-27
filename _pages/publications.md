@@ -14,43 +14,67 @@ author_profile: true
 {% endfor %}
 -->
 
+## Refereed Journal Publications
+1.	**Cui Z**, Lin L, Pu Z, Wang Y*. (2019) Graph Markov Network for Traffic Forecasting with Missing Data. *Transportation Research Part C: Emerging Technologies* (under review)
+2.	**Cui Z**, Fu M, Zhu M, Ban X, Wang Y*. (2019) Transportation Artificial Intelligence Platform for Traffic Forecasting. *Transportation Research Record* (under review)
+3.	**Cui Z**, Ke R, Pu Z, Ma X, Wang Y*. (2019) Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction. *Transportation Research Part C: Emerging Technologies* (under review)
+4.	**Cui Z**, Henrickson K, Ke R, Wang Y*. (2019) Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *IEEE transaction on Intelligent Transportation Systems* (under review)
+5.	**Cui Z**, Ke R, Wang Y*. (2019) Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values. *Transportation Research Part C: Emerging Technologies* (under review)
+6.	**Cui Z**, Long Y*. (2019) Perspectives on Stability and Mobility of Transit Passenger’s Travel Behaviour through Smart Card Data. *IET Intelligent Transport Systems* (in press). (doi: 10.1049/iet-its.2019.0212)
+7.	**Cui Z**, Henrickson K, Biancardo S, Pu Z, Wang Y*. (2019) Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics. *Journal of Transportation Engineering, Part A: Systems* (accepted). (doi: 10.1061/JTEPBS.0000331)
+8.	Ma X, Li Y, **Cui Z***, Wang Y*. (2018) Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models. *IEEE transaction on Intelligent Transportation Systems* (under review)
+9.	Pu Z, **Cui Z**, Zhu M, Wang Y*. (2019) Mining Public Transit Ridership Flow and Origin-Destination Information from Wi-Fi and Bluetooth Sensing Data. *Transportation Research Part C: Emerging Technologies* (under review)
+10.	Ke R, Li W, **Cui Z**, Wang Y*. (2019) Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact. *IET Intelligent Transportation Systems* (under review)
+11.	Ke R, Feng S, **Cui Z**, Wang Y*. (2019) An advanced framework for microscopic and lane-level macroscopic traffic parameters estimation from UAV video. *IET Intelligent Transport Systems* (under review)
+12.	Liang Y, **Cui Z**, Tian Y, Chen H, Wang Y*. (2018) A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*, 2672(45), 87-105. (doi: 10.1177/0361198118798737)
+13.	Ke R, Li Z, Kim S, Ash J, **Cui Z**, Wang Y*. (2017) Real-time bidirectional traffic flow parameter estimation from aerial videos. *IEEE Transactions on Intelligent Transportation Systems*, 18(4), 890-901. (doi: 10.1109/TITS.2016.2595526)
+14.	Chen X, Li Z, Wang Y, **Cui Z**, Shi C, Wu H*. (2017). Evaluating the impacts of grades on vehicular speeds on interstate highways. *PloS one*, 12(9), e0184142. (doi: 10.1371/journal.pone.0184142)
+
+## Invited Articles
+1.	Wang Y, **Cui Z**. (2019) The Development of Smart Transportation in Urgent Need of Transportation Data Science (in Chinese). *Urban Transport of China*, 17(3), 8-10. (doi: 10.13813/j.cn11-5141/u.2019.0301)
+
+## Refereed Conference Proceedings
+1.	**Cui Z**, Lin L, Pu Z, Wang Y. (2020) Graph Markov Network for Traffic Forecasting with Missing Data. *Transportation Research Board 99th Annual Meeting* (under review)
+2.	**Cui Z**, Fu M, Zhu M, Ban X, Wang Y. (2020) Transportation Artificial Intelligence Platform for Traffic Forecasting. *Transportation Research Board 99th Annual Meeting* (under review)
+3.	Pu Z, **Cui Z**, Vaa T, Wang S, Wang Y. (2020) Road Surface Friction Prediction Based on Gated Recurrent Unit Networks Using Historical Data with Missing Values. *Transportation Research Board 99th Annual Meeting* (under review)
+4.	Ke R, Li W, **Cui Z**, Wang Y. (2020) Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact. *Transportation Research Board 99th Annual Meeting* (under review)
+5.	Pu Z, Guo X, **Cui Z**, Zhu M, Wang Y. (2020) Mining Public Transit Ridership Flow and Origin-Destination Information from Wi-Fi and Bluetooth Sensing Data. *Transportation Research Board 99th Annual Meeting* (under review)
+6.	Yin S, Wang J, Wang Z, **Cui Z**, Wang Y. (2020) Attention-Enabled Network-Level Traffic Speed Prediction. *Transportation Research Board 99th Annual Meeting* (under review)
+7.	**Cui Z**, Henrickson K, Ke R, Dong X, Wang Y. (2019) High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *Transportation Research Board 98th Annual Meeting* 
+8.	**Cui Z**, Henrickson K, Pu Z, Guo G, Wang Y. (2019) A New Multi-Source Traffic Data Integration Framework for Traffic Analysis and Performance Measurement. *Transportation Research Board 98th Annual Meeting*.
+9.	Ke R, Feng S, **Cui Z**, Wang Y. (2019) An Advanced Framework for Traffic Parameters Estimation from UAV Video. *Transportation Research Board 98th Annual Meeting* (No. 19-02564).
+10.	Ke R, Li W, **Cui Z**, Wang Y. (2018) Multi-Lane Traffic Pattern Learning and Forecasting Using Convolutional Neural Network. *COTA International Symposium on Emerging Trends in Transportation* (ISETT).
+11.	**Cui Z**, Ke R, Wang Y. (2017) Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. *ACM SIGKDD International Workshop on Urban Computing* (UrbComp)
+12.	Wang X, MacKenzie D, **Cui Z**. (2017) Complement or Competitor? Comparing car2go and Transit Travel Times, Prices, and Usage Patterns in Seattle. *Transportation Research Board 96th Annual Meeting* (No. 17-06234).
+13.	Pu Z, Li Z, Zhu W, **Cui Z**, Wang Y. (2017) Evaluating Safety Effects of Variable Speed Limit System using Empirical Bayesian Before-After Analysis. *Transportation Research Board 96th Annual Meeting* (No. 17-05863).
+14.	**Cui Z**, Zhang S, Henrickson K, Wang Y. (2016) New progress of DRIVE Net: An E-science transportation platform for data sharing, visualization, modelling, and analysis. *IEEE International Smart Cities Conference* (ISC2), (pp. 1-2).
+15.	**Cui Z**, Long Y, Ke R, Wang, Y. (2015) Characterizing evolution of extreme public transit behavior using smart card data. *IEEE International Smart Cities Conference* (ISC2), (pp. 1-6).
+16.	**Cui Z**, Long Y. (2015) Perspectives on Stability and Mobility of Passenger’s Travel Behaviour through Smart Card Data. *ACM SIGKDD International Workshop on Urban Computing* (UrbComp).
+17.	**Cui Z**, Yang S W, Tsai H M (2015) A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition. *IEEE International Conference on Intelligent Transportation Systems* (ITSC), (pp. 931-937).
+18.	Gao Y, Swaminathan K, **Cui Z**, Su, L. (2015) Predictive Traffic Assignment: A New Method and System for Optimal Balancing of Road Traffic. *IEEE 18th International Conference on Intelligent Transportation Systems* (ITSC), (pp. 400-407).
+19.	**Cui Z**, Wang C, Tsai H M. (2014) Characterizing channel fading in vehicular visible light communications with video data. *IEEE Vehicular Networking Conference* (VNC), (pp. 226-229).
+20. **Cui Z**, Yang S W, Wang C, Tsai H M. (2014) On addressing driving inattentiveness: Robust rear light status classification using hierarchical matching pursuit. *IEEE 17th International Conference on Intelligent Transportation Systems* (ITSC), (pp. 2243-2244).
+<!--
 ## Selected Peer-reviewed Papers
-
 * **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *Transportation Research Board 98th Annual Meeting* (presented as an Extended Abstract; submitted to journal under review). \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
-
 * **Cui, Z.**, Henrickson, K., Pu, Z., Guo, G., & Wang, Y.\* (2019). A New Multi-Source Traffic Data Integration Framework for Traffic Analysis and Performance Measurement. *Transportation Research Board 98th Annual Meeting* (presented as an Extended Abstract; submitted to journal under review).
-
 * Ma, X., Li, Y., **Cui, Z.**, Wang, Y. (2019). Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models. Submitted to *Neurocomputing* (submitted to journal under review). \[[arXiv](https://arxiv.org/abs/1811.04745)\]
-
 * **Cui, Z.**, Ke, R., & Wang, Y.\* (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. *ACM SIGKDD International Workshop on Urban Computing 2017* (presented without copyright; submitted to journal under review). \[[arXiv](https://arxiv.org/abs/1801.02143)\]\[[code](https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
-<!--\[[video](https://www.youtube.com/watch?v=fKSijaXq9qM)\]-->
-
+\[[video](https://www.youtube.com/watch?v=fKSijaXq9qM)\]
 * Liang, Y., **Cui, Z.**, Tian, Y., Chen, H., & Wang, Y.\* (2018). A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*. \[[arXiv](https://arxiv.org/abs/1801.03818)\]
-
 * Ke, R., Li, W., **Cui, Z.**, & Wang, Y.* (2018). Multi-Lane Traffic Pattern Learning and Forecasting Using Convolutional Neural Network. *COTA International Symposium on Emerging Trends in Transportation (ISETT)* (presented without copyright).
-
 * Ke, R., Li, Z., Kim, S., Ash, J., **Cui, Z.**, & Wang, Y.* (2017). [Real-time bidirectional traffic flow parameter estimation from aerial videos](https://ieeexplore.ieee.org/document/7546916). *IEEE Transactions on Intelligent Transportation Systems*, 18(4), 890-901.
-
 * Chen, X., Li, Z., Wang, Y., **Cui, Z.**, Shi, C., & Wu, H.* (2017). [Evaluating the impacts of grades on vehicular speeds on interstate highways](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184142). *PloS one*, 12(9), e0184142.
-
 * Wang, X., MacKenzie, D.* , & **Cui, Z.** (2017). [Complement or Competitior? Comparing car2go and Transit Travel Times, Prices, and Usage Patterns in Seattle](http://amonline.trb.org/63532-trb-1.3393340/t027-1.3402384/830-1.3402436/17-06234-1.3402451/17-06234-1.3402452?qr=1). *Transportation Research Board 96th Annual Meeting* (No. 17-06234).
-
 * Pu, Z., Li, Z., Zhu, W., **Cui, Z.**, & Wang, Y.* (2017). [Evaluating Safety Effects of Variable Speed Limit System using Empirical Bayesian Before-After Analysis](https://trid.trb.org/view/1439331). *Transportation Research Board 96th Annual Meeting* (No. 17-05863).
-
 * **Cui, Z.**, Zhang, S., Henrickson, K. C., & Wang, Y.* (2016). New progress of DRIVE Net: An E-science transportation platform for data sharing, visualization, modelling, and analysis. *IEEE International Smart Cities Conference (ISC2)*, (pp. 1-2).
-
 * **Cui, Z.**, Long, Y., Ke, R., & Wang, Y.* (2015). [Characterizing evolution of extreme public transit behavior using smart card data](https://ieeexplore.ieee.org/document/7366217). *IEEE International Smart Cities Conference (ISC2)*, (pp. 1-6).
-
 * **Cui, Z.**, and Long, Y.* (2015). Perspectives on Stability and Mobility of Passenger’s Travel Behavior through Smart Card Data. *ACM SIGKDD International Workshop on Urban Computing ([UrbComp 2015](https://www.cs.uic.edu/~urbcomp2013/urbcomp2015/accept.html))* (presented without copyright). \[[arXiv](https://arxiv.org/abs/1508.06033)\]
-
 * **Cui, Z.**, Yang, S. W., & Tsai, H. M. (2015). [A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition](https://ieeexplore.ieee.org/document/7313248). *IEEE International Conference on Intelligent Transportation Systems (ITSC)*, (pp. 931-937). \[[data](https://github.com/zhiyongc/Vehicle-Rear-Light-Data)\] \[[demo](https://www.youtube.com/watch?v=CPfXCHWMZW8)\]
-
 * Gao, Y., Swaminathan, K., **Cui, Z.**, & Su, L. (2015). [Predictive Traffic Assignment: A New Method and System for Optimal Balancing of Road Traffic](https://ieeexplore.ieee.org/document/7313166). *IEEE 18th International Conference on Intelligent Transportation Systems (ITSC)*, (pp. 400-407).
-
 * **Cui, Z.**, Wang, C., & Tsai, H. M. (2014). [Characterizing channel fading in vehicular visible light communications with video data](https://ieeexplore.ieee.org/abstract/document/7013353). *IEEE Vehicular Networking Conference (VNC)*, (pp. 226-229).
-
 * **Cui, Z.**, Yang, S. W., Wang, C., & Tsai, H. M. (2014). On addressing driving inattentiveness: Robust rear light status classification using hierarchical matching pursuit. *IEEE 17th International Conference on Intelligent Transportation Systems (ITSC)*, (pp. 2243-2244).
-
 ## Technical/Research Reports
-
 * Wang, Y., Zhang, W., Henrickson, K., Ke, R., **Cui, Z.** (2016). Digital roadway interactive visualization and evaluation network applications to WSDOT operational data usage. *Washington (State). Dept. of Transportation*.
+-->
+
