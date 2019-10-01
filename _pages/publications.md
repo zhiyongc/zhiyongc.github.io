@@ -30,7 +30,7 @@ author_profile: true
 13.	Ke R, Li Z, Kim S, Ash J, **Cui Z**, Wang Y\*. (2017) Real-time bidirectional traffic flow parameter estimation from aerial videos. *IEEE Transactions on Intelligent Transportation Systems*, 18(4), 890-901. (doi: [10.1109/TITS.2016.2595526](https://doi.org/10.1109/TITS.2016.2595526))
 14.	Chen X, Li Z, Wang Y, **Cui Z**, Shi C, Wu H\*. (2017). Evaluating the impacts of grades on vehicular speeds on interstate highways. *PloS one*, 12(9), e0184142. (doi: [10.1371/journal.pone.0184142](https://10.1371/journal.pone.0184142))
 
-## Invited Articles
+## Invited Review Articles
 1.	Wang Y, **Cui Z**. (2019) The Development of Smart Transportation in Urgent Need of Transportation Data Science (in Chinese). *Urban Transport of China*, 17(3), 8-10. (doi: [10.13813/j.cn11-5141/u.2019.0301](https://doi.org/10.13813/j.cn11-5141/u.2019.0301))
 
 ## Refereed Conference Proceedings
