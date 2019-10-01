@@ -12,6 +12,12 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 
 [[Curriculum Vitae](https://zhiyongc.github.io/files/CV.pdf)]
 
+## News
+* <span style="color:red"> New! </span> Sept. 2019. My first-author paper "Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting" is accepted by *IEEE Transaction on Intelligent Transportation Systems*.
+* <span style="color:red"> New! </span> Sept. 2019. My first-author paper "Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics" is accepted by *Journal of Transportation Engineering, Part A: Systems*. 
+* <span style="color:red"> New! </span> Aug. 2019. My first-author paper "Perspectives on Stability and Mobility of Transit Passenger’s Travel Behavior through Smart Card Data" is accepted by *IET Intelligent Transport Systems*. ([doi](https://doi.org/10.1049/iet-its.2019.0212))
+
+
 
 ## Research Focus
 * Basic and Applied Research on Machine Learning and Deep Learning
