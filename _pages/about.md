@@ -13,10 +13,14 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 [[Curriculum Vitae](https://zhiyongc.github.io/files/CV.pdf)]
 
 ## News
-* <span style="color:red"> New! </span> Sept. 2019. My first-author paper "Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting" is accepted by *IEEE Transaction on Intelligent Transportation Systems*.
+
+* <span style="color:red"> New! </span> Oct. 2019. I will give a presentation at INFORMS 2019 entitled: "Learning Traffic as a Graph: Graph based Neural networks for Network-scale Traffic Prediction" ([link](https://www.abstractsonline.com/notify/notifyintro.asp?MKey={DA9FD773-1961-4264-8491-297D9CB12146}&NKey={E86BA192-F3B7-46AB-AB2E-573BCB2C8F78}))
+* <span style="color:red"> New! </span> Sept. 2019. My first-author paper "Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting" is accepted by *IEEE Transaction on Intelligent Transportation Systems* [[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]
 * <span style="color:red"> New! </span> Sept. 2019. My first-author paper "Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics" is accepted by *Journal of Transportation Engineering, Part A: Systems*. 
 * <span style="color:red"> New! </span> Aug. 2019. My first-author paper "Perspectives on Stability and Mobility of Transit Passenger’s Travel Behavior through Smart Card Data" is accepted by *IET Intelligent Transport Systems*. ([doi](https://doi.org/10.1049/iet-its.2019.0212))
-
+* <span style="color:red"> New! </span> May 2019. I'm honoured to be a member of Transportation Research Board (TRB) Standing Committee on Intelligent Transportation Systems – AHB15
+* <span style="color:red"> New! </span> Apr. 2019. I'm honoured to be a member of Transportation Research Board (TRB) Standing Committee on Geospatial Data Acquisition Technologies - AFB80
+* <span style="color:red"> New! </span> Jan. 2019. Three papers are accepted by TRB Aunual Meeting 2019. I will give two presentations ([1](https://trid.trb.org/view/1573071),[2](https://trid.trb.org/view/1646938))
 
 
 ## Research Focus
@@ -28,19 +32,20 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 * Intelligent Transportation Systems
 
 ## Recent Papers
-1.	**Cui Z**, Long Y\*. (2019) Perspectives on Stability and Mobility of Transit Passenger’s Travel Behaviour through Smart Card Data. *IET Intelligent Transport Systems* (in press). (doi: [10.1049/iet-its.2019.0212](https://doi.org/10.1049/iet-its.2019.0212))
-2.	**Cui Z**, Henrickson K, Biancardo S, Pu Z, Wang Y\*. (2019) Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics. *Journal of Transportation Engineering, Part A: Systems* (accepted). (doi: [10.1061/JTEPBS.0000331](https://doi.org/10.1061/JTEPBS.0000331))
+* **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). **Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**. *IEEE Transaction on Intelligent Transportation Systems* (accepted) \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]
+*	**Cui Z**, Long Y\*. (2019) **Perspectives on Stability and Mobility of Transit Passenger’s Travel Behaviour through Smart Card Data**. *IET Intelligent Transport Systems* (in press). (doi: [10.1049/iet-its.2019.0212](https://doi.org/10.1049/iet-its.2019.0212))
+*	**Cui Z**, Henrickson K, Biancardo S, Pu Z, Wang Y\*. (2019) **Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics**. *Journal of Transportation Engineering, Part A: Systems* (accepted). (doi: [10.1061/JTEPBS.0000331](https://doi.org/10.1061/JTEPBS.0000331))
 
 
 ## Selected Research on Deep Learning based Traffic Prediction and Data Imputation
-1. **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. (submitted to *IEEE Transaction on Intelligent Transportation Systems*; under review). \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
+* **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *IEEE Transaction on Intelligent Transportation Systems* \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
 
 <!--\[[slides](https://drive.google.com/file/d/1FxmyG88cAD3gO7pbEmor4uq3fINAK2yP/view?usp=sharing)\] -->
 
-2. **Cui, Z.**, Ke, R., & Wang, Y.\* (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. (submitted to *IEEE Transaction on Intelligent Transportation Systems*; under review). \[[arXiv](https://arxiv.org/abs/1801.02143)\]\[[code](https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
+* **Cui, Z.**, Ke, R., & Wang, Y.\* (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. (submitted to *IEEE Transaction on Intelligent Transportation Systems*; under review). \[[arXiv](https://arxiv.org/abs/1801.02143)\]\[[code](https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
 <!--\[[video](http://videolectures.net/zhiyong_cui/)\]-->
 
-3. Liang, Y., **Cui, Z.**, Tian, Y., Chen, H., & Wang, Y.\* (2018). A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*. \[[arXiv](https://arxiv.org/abs/1801.03818)\]
+* Liang, Y., **Cui, Z.**, Tian, Y., Chen, H., & Wang, Y.\* (2018). A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*. \[[arXiv](https://arxiv.org/abs/1801.03818)\]
 
 <!-- ## Selected Research on Geospatial Transportation Data Integration
 1. **Cui, Z.**, Henrickson, K., Pu, Z., Guo, G., & Wang, Y.\* (2019). A New Multi-Source Traffic Data Integration Framework for Traffic Analysis and Performance Measurement. *Transportation Research Board 98th Annual Meeting*. \[[slides](https://drive.google.com/file/d/1SB-0zUTPWSa8xUsRmZxt_s1msCXbPQyh/view?usp=sharing)\] -->
