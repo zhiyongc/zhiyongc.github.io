@@ -14,7 +14,7 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 
 ## News
 
-* <span style="color:red"> New! </span> Oct. 2019. I will give a presentation at INFORMS 2019 entitled: "Learning Traffic as a Graph: Graph based Neural networks for Network-scale Traffic Prediction" ([link](https://www.abstractsonline.com/notify/notifyintro.asp?MKey={DA9FD773-1961-4264-8491-297D9CB12146}&NKey={E86BA192-F3B7-46AB-AB2E-573BCB2C8F78}))
+* <span style="color:red"> New! </span> Oct. 2019. I'm invited to give a presentation at INFORMS 2019 entitled: "Learning Traffic as a Graph: Graph based Neural networks for Network-scale Traffic Prediction" ([link](https://www.abstractsonline.com/notify/notifyintro.asp?MKey={DA9FD773-1961-4264-8491-297D9CB12146}&NKey={E86BA192-F3B7-46AB-AB2E-573BCB2C8F78}))
 * <span style="color:red"> New! </span> Sept. 2019. My first-author paper "Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting" is accepted by *IEEE Transaction on Intelligent Transportation Systems* [[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]
 * <span style="color:red"> New! </span> Sept. 2019. My first-author paper "Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics" is accepted by *Journal of Transportation Engineering, Part A: Systems*. 
 * <span style="color:red"> New! </span> Aug. 2019. My first-author paper "Perspectives on Stability and Mobility of Transit Passenger’s Travel Behavior through Smart Card Data" is accepted by *IET Intelligent Transport Systems*. ([doi](https://doi.org/10.1049/iet-its.2019.0212))
