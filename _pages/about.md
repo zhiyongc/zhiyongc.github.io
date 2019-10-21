@@ -21,7 +21,7 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 * <span style="color:red"> New! </span> June 2019. Our invited review article "The Development of Smart Transportation in Urgent Need of Transportation Data Science (in Chinese)" is publised at *Urban Transport of China* \[[doi](https://doi.org/10.13813/j.cn11-5141/u.2019.0301)\]
 * <span style="color:red"> New! </span> May 2019. I'm honoured to be a member of Transportation Research Board (TRB) Standing Committee on Intelligent Transportation Systems – AHB15
 * <span style="color:red"> New! </span> Apr. 2019. I'm honoured to be a member of Transportation Research Board (TRB) Standing Committee on Geospatial Data Acquisition Technologies - AFB80
-* <span style="color:red"> New! </span> Jan. 2019. Three papers are accepted by TRB Aunual Meeting 2019. I will give two presentations \[[1](https://trid.trb.org/view/1573071),[2](https://trid.trb.org/view/1646938)\]
+* <span style="color:red"> New! </span> Jan. 2019. Three papers are accepted by TRB Aunual Meeting 2019. I will give two oral presentations \[[1](https://trid.trb.org/view/1573071),[2](https://trid.trb.org/view/1646938)\]
 
 
 ## Research Focus
