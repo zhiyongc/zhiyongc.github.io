@@ -33,6 +33,8 @@ I am a PhD Candidate in the [Smart Transportation Application and Research Lab](
 * Intelligent Transportation Systems
 
 ## Recent Papers
+*	**Cui Z**, Lin L, Pu Z, Wang Y. (2020) Graph Markov Network for Traffic Forecasting with Missing Data. *Transportation Research Board 99th Annual Meeting* (accepted)
+*	**Cui Z**, Fu M, Zhu M, Ban X, Wang Y. (2020) Transportation Artificial Intelligence Platform for Traffic Forecasting. *Transportation Research Board 99th Annual Meeting* (accepted)
 * **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *IEEE Transaction on Intelligent Transportation Systems* (accepted) \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]
 *	**Cui Z**, Long Y\*. (2019) Perspectives on Stability and Mobility of Transit Passenger’s Travel Behaviour through Smart Card Data. *IET Intelligent Transport Systems* (in press). (doi: [10.1049/iet-its.2019.0212](https://doi.org/10.1049/iet-its.2019.0212))
 *	**Cui Z**, Henrickson K, Biancardo S, Pu Z, Wang Y\*. (2019) Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics. *Journal of Transportation Engineering, Part A: Systems* (accepted). (doi: [10.1061/JTEPBS.0000331](https://doi.org/10.1061/JTEPBS.0000331))
