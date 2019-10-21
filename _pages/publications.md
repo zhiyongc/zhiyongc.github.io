@@ -36,7 +36,6 @@ author_profile: true
 ## Refereed Conference Proceedings
 1.	**Cui Z**, Lin L, Pu Z, Wang Y. (2020) Graph Markov Network for Traffic Forecasting with Missing Data. *Transportation Research Board 99th Annual Meeting* (accepted)
 1.	**Cui Z**, Fu M, Zhu M, Ban X, Wang Y. (2020) Transportation Artificial Intelligence Platform for Traffic Forecasting. *Transportation Research Board 99th Annual Meeting* (accepted)
-1.	Pu Z, **Cui Z**, Vaa T, Wang S, Wang Y. (2020) Road Surface Friction Prediction Based on Gated Recurrent Unit Networks Using 1istorical Data with Missing Values. *Transportation Research Board 99th Annual Meeting* (accepted)
 1.	Ke R, Li W, **Cui Z**, Wang Y. (2020) Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact. *Transportation Research Board 99th Annual Meeting* (accepted)
 1.	Pu Z, Guo X, **Cui Z**, Zhu M, Wang Y. (2020) Mining Public Transit Ridership Flow and Origin-Destination Information from Wi-Fi and Bluetooth Sensing Data. *Transportation Research Board 99th Annual Meeting* (accepted)
 1.	**Cui Z**, Henrickson K, Ke R, Dong X, Wang Y. (2019) High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *Transportation Research Board 98th Annual Meeting* 
@@ -53,6 +52,8 @@ author_profile: true
 1.	Gao Y, Swaminathan K, **Cui Z**, Su, L. (2015) Predictive Traffic Assignment: A New Method and System for Optimal Balancing of Road Traffic. *IEEE 18th International Conference on Intelligent Transportation Systems* (ITSC), (pp. 400-407).
 1.	**Cui Z**, Wang C, Tsai H M. (2014) Characterizing channel fading in vehicular visible light communications with video data. *IEEE Vehicular Networking Conference* (VNC), (pp. 226-229).
 1. **Cui Z**, Yang S W, Wang C, Tsai H M. (2014) On addressing driving inattentiveness: Robust rear light status classification using hierarchical matching pursuit. *IEEE 17th International Conference on Intelligent Transportation Systems* (ITSC), (pp. 2243-2244).
+
+<!--1.	Pu Z, **Cui Z**, Vaa T, Wang S, Wang Y. (2020) Road Surface Friction Prediction Based on Gated Recurrent Unit Networks Using 1istorical Data with Missing Values. *Transportation Research Board 99th Annual Meeting* (accepted)-->
 
 ## Technical Report
 1.	Wang Y, Ban X, **Cui Z**, Zhu M. (2019) An artificial intelligence platform for network-wide congestion detection and prediction using multi-source data. Connected Cities and Smart Mobility (C2SMART) Research Report (USDOT award number: 69A3551747124)
