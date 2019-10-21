@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Candidate in the [Smart Transportation Application and Research Lab](http://www.uwstarlab.org/) (STAR Lab) in the Department of Civil & Environmental Engineering at [University of Washington](https://www.washington.edu/) advised by Prof. [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). I received my Master degree in Software Engineering from [Peking University](http://english.pku.edu.cn/) advised by Dr. Ying Huang and Prof. Tong Mo and earned a Bachelor degree in Software Engineering from [Beihang University](https://ev.buaa.edu.cn/). During my Master study, I worked as a visiting student in the College of Electrical Engineering and Computer Science at [National Taiwan University](http://www.ntu.edu.tw/english/) advised by Prof. [Hsin-Mu (Michael) Tsai](https://www.csie.ntu.edu.tw/~hsinmu/wiki/).
 
-[[Curriculum Vitae](https://zhiyongc.github.io/files/CV_zhiyong.pdf)]
+[[Curriculum Vitae](https://zhiyongc.github.io/files/CV.pdf)]
 
 ## News
 
