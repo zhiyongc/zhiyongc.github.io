@@ -11,6 +11,12 @@ author_profile: true
 {% endfor %}
 -->
 
-### Co-Teaching with Miss. [Mayuree Binjolkar](http://www.uwstarlab.org/members.html) & Teaching Assistant
-* CEE 412 / CET 512 Transportation Data Management, Department of Civil and Environmental Engineering, University of Washington, 2019 Winter (undergrad & grad)
+### Predoctoral Instructor
+* 2020 Winter Quarter: CEE 412 / CET 512 Transportation Data Management and Visaulizaiton (undergrad & grad)
 
+### Guest Lecturer
+* 2019 Winter Quarter: CEE 412 / CET 512 Transportation Data Management (undergrad & grad)
+  * Topic:Introduction of Transportation Data Management
+  
+### Teaching Assistant
+* 2019 Winter Quarter: CEE 412 / CET 512 Transportation Data Management (undergrad & grad)
