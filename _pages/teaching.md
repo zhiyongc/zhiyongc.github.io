@@ -13,13 +13,13 @@ author_profile: true
 
 ### Predoctoral Instructor
 * 2020 Winter Quarter
-  * CEE 412 / CET 512: Transportation Data Management and Visaulizaiton (undergrad & grad)
+  * CEE 412 / CET 512: Transportation Data Management and Visualization (Undergraduate- & Gradudate- Level)
 
 ### Guest Lecturer
 * 2019 Winter Quarter
-  * CEE 412 / CET 512: Transportation Data Management (undergrad & grad)
+  * CEE 412 / CET 512: Transportation Data Management (Undergraduate- & Gradudate- Level)
   * Topic: Introduction of Transportation Data Management
   
 ### Teaching Assistant
 * 2019 Winter Quarter
-  * CEE 412 / CET 512: Transportation Data Management (undergrad & grad)
+  * CEE 412 / CET 512: Transportation Data Management (Undergraduate- & Gradudate- Level)
