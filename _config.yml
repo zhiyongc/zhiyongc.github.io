@@ -106,6 +106,7 @@ author:
   employer         : "University of Washington, Seattle"
   googlescholar    : "https://scholar.google.com/citations?user=jytR7oAAAAAJ&hl=en&oi=ao"
   email            : "zhiyongc@uw.edu"
+  CV               : files/CV.pdf
   researchgate     : # "https://www.researchgate.net/profile/Zhiyong_Cui2/" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : # "https://students.washington.edu/zhiyongc/"
   bitbucket        : # "Zhiyongc"
@@ -132,7 +133,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CV               : files/CV.pdf
+
 
 
 # Reading Files
