@@ -8,14 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Short-Bio
-* I am a **PhD Candidate** in the Smart Transportation Application and Research Lab ([STAR Lab](http://www.uwstarlab.org/)) in the Department of **Civil & Environmental Engineering** at the [University of Washington](https://www.washington.edu/) 
-  * Advisor: Prof. [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). 
-* I received my **Master degree** in **Software Engineering** from [Peking University](http://english.pku.edu.cn/) 
-  * Advisor: by Dr. Ying Huang and Prof. Tong Mo 
-* I was a **visiting master student** in the College of **Electrical Engineering and Computer Science** at [National Taiwan University](http://www.ntu.edu.tw/english/) advised by Prof. [Hsin-Mu (Michael) Tsai](https://www.csie.ntu.edu.tw/~hsinmu/wiki/).
-* I earned a **Bachelor degree** in **Software Engineering** from [Beihang University](https://ev.buaa.edu.cn/). 
-* My Curriculum Vitae: [[CV](files/CV.pdf)]
+I am a PhD Candidate in the Smart Transportation Application and Research Lab ([STAR Lab](http://www.uwstarlab.org/)) in the Department of Civil & Environmental Engineering** at the [University of Washington](https://www.washington.edu/) advised by Prof. [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). I received my Master degree in Software Engineering from [Peking University](http://english.pku.edu.cn/) and my Bachelor degree in Software Engineering from [Beihang University](https://ev.buaa.edu.cn/). I was a visiting master student in the College of Electrical Engineering and Computer Science at [National Taiwan University](http://www.ntu.edu.tw/english/) advised by Prof. [Hsin-Mu (Michael) Tsai](https://www.csie.ntu.edu.tw/~hsinmu/wiki/). My **Curriculum Vitae**: [[CV](files/CV.pdf)]
 
 ## News
 * <span style="color:red"> New! </span> 2020. I'm honoured to win the Student Paper Award from the Transportation Statistics Interest Group of American Statistical Association (ASA). 
@@ -29,8 +22,7 @@ redirect_from:
 <!--
 * <span style="color:red"> New! </span> May 2019. I'm honoured to be a member of Transportation Research Board (TRB) Standing Committee on Intelligent Transportation Systems – AHB15
 * <span style="color:red"> New! </span> Apr. 2019. I'm honoured to be a member of Transportation Research Board (TRB) Standing Committee on Geospatial Data Acquisition Technologies - AFB80
-* <span style="color:red"> New! </span> Jan. 2019. Three papers are accepted by TRB Aunual Meeting 2019. I will give two oral presentations \[[1](https://trid.trb.org/view/1573071),[2](https://trid.trb.org/view/1646938)\]
--->
+* <span style="color:red"> New! </span> Jan. 2019. Three papers are accepted by TRB Aunual Meeting 2019. I will give two oral presentations \[[1](https://trid.trb.org/view/1573071),[2](https://trid.trb.org/view/1646938)\] -->
 
 ## Research Focus
 * Basic and Applied Research on Machine Learning and Deep Learning
