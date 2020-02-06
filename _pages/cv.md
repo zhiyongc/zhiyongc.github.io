@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="https://zhiyongc.github.io/files/CV.pdf" type="application/pdf" />
+<embed src="https://zhiyongc.github.io/files/CV.pdf" type="application/pdf" height="800px"/>
 
 <!--{% include base_path %}-->
 <!--
