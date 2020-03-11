@@ -17,6 +17,7 @@ I am a PhD Candidate in the Smart Transportation Application and Research Lab ([
 * Connected Vehicles and Autonomous Driving
 
 ## News Over the Past Half Year
+* <span style="color:red"> New! </span> Mar. 2020. My first-author paper "Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction" is accepted by *Transportation Research Part C: Emerging Technologies* 
 * <span style="color:red"> New! </span> Jan. 2020. I'm honoured to win the Student Paper Award from the Transportation Statistics Interest Group of American Statistical Association (ASA). \[[Paper](https://arxiv.org/abs/1912.05457)\] 
 * <span style="color:red"> New! </span> Oct. 2019. Two first-author and two co-authored papers are accepted for presentation at TRB 2020.
 * <span style="color:red"> New! </span> Oct. 2019. I win the Second Prize in the 2019 PacTrans Annual Conference best poster contest.
@@ -35,14 +36,16 @@ I am a PhD Candidate in the Smart Transportation Application and Research Lab ([
 ## Selected Research on Deep Learning based Traffic Prediction and Data Imputation
 *	**Cui Z**, Lin L, Pu Z, Wang Y. (2020) Graph Markov Network for Traffic Forecasting with Missing Data. *Transportation Research Board 99th Annual Meeting* \[[arXiv](https://arxiv.org/abs/1912.05457)\] (**ASA TSIG Student Paper Award**)
 
-* **Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *IEEE Transaction on Intelligent Transportation Systems* \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
+*	**Cui Z**, Ke R, Pu Z, Ma X, Wang Y\*. (2020) Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction. *Transportation Research Part C: Emerging Technologies* 
+
+* 	**Cui, Z.**, Henrickson, K., Ke, R., & Wang, Y.\* (2019). Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *IEEE Transaction on Intelligent Transportation Systems* \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
 
 <!--\[[slides](https://drive.google.com/file/d/1FxmyG88cAD3gO7pbEmor4uq3fINAK2yP/view?usp=sharing)\] -->
 
-* **Cui, Z.**, Ke, R., & Wang, Y.\* (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. (submitted to *IEEE Transaction on Intelligent Transportation Systems*; under review). \[[arXiv](https://arxiv.org/abs/1801.02143)\]\[[code](https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
+* 	**Cui, Z.**, Ke, R., & Wang, Y.\* (2018). Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction. (submitted to *IEEE Transaction on Intelligent Transportation Systems*; under review). \[[arXiv](https://arxiv.org/abs/1801.02143)\]\[[code](https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
 <!--\[[video](http://videolectures.net/zhiyong_cui/)\]-->
 
-* Liang, Y., **Cui, Z.**, Tian, Y., Chen, H., & Wang, Y.\* (2018). A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*. \[[arXiv](https://arxiv.org/abs/1801.03818)\]
+* 	Liang, Y., **Cui, Z.**, Tian, Y., Chen, H., & Wang, Y.\* (2018). A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*. \[[arXiv](https://arxiv.org/abs/1801.03818)\]
 
 <!--
 ## Recent Papers

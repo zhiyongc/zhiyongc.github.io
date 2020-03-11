@@ -14,27 +14,28 @@ author_profile: true
 {% endfor %}
 -->
 ## Preprints
-1.	**Cui Z**, Lin L, Pu Z, Wang Y\*. (2019) Graph Markov Network for Traffic Forecasting with Missing Data. *Transportation Research Part C: Emerging Technologies* (under review)
-1.	**Cui Z**, Fu M, Zhu M, Ban X, Wang Y\*. (2019) Transportation Artificial Intelligence Platform for Traffic Forecasting. *Transportation Research Record* (under review)
-1.	**Cui Z**, Ke R, Pu Z, Ma X, Wang Y\*. (2019) Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction. *Transportation Research Part C: Emerging Technologies* (under review)
-1.	**Cui Z**, Ke R, Wang Y\*. (2019) Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values. *Transportation Research Part C: Emerging Technologies* (under review) 
-1.	Ma X, Li Y, **Cui Z**\*, Wang Y\*. (2018) Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models. *IEEE transaction on Intelligent Transportation Systems* (under review)
-1.	Lin L, **Cui Z**, Wang Y. (2020) MLG-Net: Multi-Layer Graph Network for Traffic Forecasting. *24th European Conference on Artificial Intelligence (ECAI)* (under review)
-1.	Pu Z, **Cui Z**, Zhu M, Wang Y\*. (2019) Mining Public Transit Ridership Flow and Origin-Destination Information from Wi-Fi and Bluetooth Sensing Data. *Transportation Research Part C: Emerging Technologies* (under review)
-1.	Ke R, Li W, **Cui Z**, Wang Y\*. (2019) Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact. *Transportation Research Record* (under review)
-1.	Ke R, Feng S, **Cui Z**, Wang Y\*. (2019) An advanced framework for microscopic and lane-level macroscopic traffic parameters estimation from UAV video. *IET Intelligent Transport Systems* (under review)
+1.	**Cui Z**, Lin L, Pu Z, Wang Y\*. Graph Markov Network for Traffic Forecasting with Missing Data. *Transportation Research Part C: Emerging Technologies* (under review) (<span style="color: blue;font-weight:bold">ASA TSIG Student Paper Award</span>) \[[arXiv](https://arxiv.org/abs/1912.05457)\]
+1.	**Cui Z**, Wang X, Wang Y\*. Understanding Limits of Predictability in Free-floating Car Sharing Vehicles’ Mobility. *Transportation* (under review)
+1.	**Cui Z**, Fu M, Zhu M, Ban X, Wang Y\*. Transportation Artificial Intelligence Platform for Traffic Forecasting. *Transportation Research Record* (under review)
+1.	**Cui Z**, Ke R, Wang Y\*. Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values. *Transportation Research Part C: Emerging Technologies* (under review) 
+1.	Ma X, Li Y, **Cui Z**\*, Wang Y\*. Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models. *IEEE transaction on Intelligent Transportation Systems* (under review)
+1.	Lin L, **Cui Z**, Wang Y. MLG-Net: Multi-Layer Graph Network for Traffic Forecasting. *24th European Conference on Artificial Intelligence (ECAI)* (under review)
+1.	Pu Z, **Cui Z**, Zhu M, Wang Y\*. Mining Public Transit Ridership Flow and Origin-Destination Information from Wi-Fi and Bluetooth Sensing Data. *Transportation Research Part C: Emerging Technologies* (under review)
+1.	Zhu M, Zhu W, Lutin J, **Cui Z**, Yinhai Wang\*. Developing a Statistically Valid and Practical Method to Compute State-Level Bus Occupancy Rates. *Transportation Research Part A: Policy and Practice* (under review)
+
 
 ## Refereed Journal Publications
+1.	**Cui Z**, Ke R, Pu Z, Ma X, Wang Y\*. (2020) Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction. *Transportation Research Part C: Emerging Technologies* 
+1. Pu Z, **Cui Z**, Wang S, Wang Y\*. (2020) Time-Aware Gated Recurrent Unit Networks for Road Surface Friction Prediction Using Historical Data. *IET Intelligent Transport Systems*
+1.	Ke R, Li W, **Cui Z**, Wang Y\*. (2020) Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact. *Transportation Research Record* 
+1.	Ke R, Feng S, **Cui Z**, Wang Y\*. (2020) An advanced framework for microscopic and lane-level macroscopic traffic parameters estimation from UAV video. *IET Intelligent Transport Systems* 
 1.	**Cui Z**, Henrickson K, Ke R, Wang Y\*. (2019) Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting. *IEEE transaction on Intelligent Transportation Systems* (in press) \[[arXiv](https://arxiv.org/abs/1802.07007)\]\[[code](https://github.com/zhiyongc/Graph_Convolutional_LSTM)\]\[[data](https://github.com/zhiyongc/Seattle-Loop-Data)\]
 1.	**Cui Z**, Long Y\*. (2019) Perspectives on Stability and Mobility of Transit Passenger’s Travel Behaviour through Smart Card Data. *IET Intelligent Transport Systems* (in press). \[[doi](https://doi.org/10.1049/iet-its.2019.0212)\]\[[arXiv](https://arxiv.org/abs/1508.06033)\]
 1.	**Cui Z**, Henrickson K, Biancardo S, Pu Z, Wang Y\*. (2019) Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics. *Journal of Transportation Engineering, Part A: Systems* (in press). \[[doi](https://doi.org/10.1061/JTEPBS.0000331)\]
+1.	Wang Y, **Cui Z**. (2019) The Development of Smart Transportation in Urgent Need of Transportation Data Science (in Chinese). *Urban Transport of China*, 17(3), 8-10. \[[doi](https://doi.org/10.13813/j.cn11-5141/u.2019.0301)\]
 1.	Liang Y, **Cui Z**, Tian Y, Chen H, Wang Y\*. (2018) A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*, 2672(45), 87-105. \[[doi](https://doi.org/10.1177/0361198118798737)\]\[[arXiv](https://arxiv.org/abs/1801.03818)\]
-1. Pu Z, **Cui Z**, Wang S, Wang Y\*. (2019) Time-Aware Gated Recurrent Unit Networks for Road Surface Friction Prediction Using Historical Data. *IET Intelligent Transport Systems*
 1.	Ke R, Li Z, Kim S, Ash J, **Cui Z**, Wang Y\*. (2017) Real-time bidirectional traffic flow parameter estimation from aerial videos. *IEEE Transactions on Intelligent Transportation Systems*, 18(4), 890-901. \[[doi](https://doi.org/10.1109/TITS.2016.2595526)\]
 1.	Chen X, Li Z, Wang Y, **Cui Z**, Shi C, Wu H\*. (2017). Evaluating the impacts of grades on vehicular speeds on interstate highways. *PloS one*, 12(9), e0184142. \[[doi](https://10.1371/journal.pone.0184142)\]
-
-## Invited Review Articles
-1.	Wang Y, **Cui Z**. (2019) The Development of Smart Transportation in Urgent Need of Transportation Data Science (in Chinese). *Urban Transport of China*, 17(3), 8-10. \[[doi](https://doi.org/10.13813/j.cn11-5141/u.2019.0301)\]
 
 ## Refereed Conference Proceedings
 1.	**Cui Z**, Lin L, Pu Z, Wang Y. (2020) Graph Markov Network for Traffic Forecasting with Missing Data. *Transportation Research Board 99th Annual Meeting* 

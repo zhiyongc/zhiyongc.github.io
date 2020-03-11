@@ -12,14 +12,18 @@ author_profile: true
 -->
 
 ### Predoctoral Instructor
-* 2020 Winter Quarter
-  * CEE 412 / CET 512: Transportation Data Management and Visualization
+
+* <a href="https://zhiyongcui.com/CEE412_CET522/"><i class='fa fa-book'></i> CEE 412 / CET 512: Transportation Data Management and Visualization </a>
+	* 2020 Winter Quarter
+	* 50 students with graduates and undergraduates
 
 ### Guest Lecturer
-* 2019 Winter Quarter
-  * CEE 412 / CET 512: Transportation Data Management
+
+* CEE 412 / CET 512: Transportation Data Management
+	* 2019 Winter Quarter
   * Topic: Introduction of Transportation Data Management
   
 ### Teaching Assistant
-* 2019 Winter Quarter
-  * CEE 412 / CET 512: Transportation Data Management
+
+* CEE 412 / CET 512: Transportation Data Management
+	* 2019 Winter Quarter
