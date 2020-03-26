@@ -18,6 +18,8 @@ I am a PhD Candidate in the Smart Transportation Application and Research Lab ([
 
 ## News Over the Past Half Year
 * <span style="color:red"> New! </span> Mar. 2020. My first-author paper "Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction" is accepted by *Transportation Research Part C: Emerging Technologies* 
+* <span style="color:red"> New! </span> Feb. 2020. * <span style="color:red"> New! </span> Feb. 2020. Our paper "Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact" is accepted by *Transportation Research Record*
+* <span style="color:red"> New! </span> Feb. 2020. * <span style="color:red"> New! </span> Feb. 2020. Our paper "An Advanced Framework for Microscopic and Lane-level Macroscopic Traffic Parameters Estimation from UAV Video" is accepted by *IET Intelligent Transport Systems*
 * <span style="color:red"> New! </span> Jan. 2020. I'm honoured to win the Student Paper Award from the Transportation Statistics Interest Group of American Statistical Association (ASA). \[[Paper](https://arxiv.org/abs/1912.05457)\] 
 * <span style="color:red"> New! </span> Oct. 2019. Two first-author and two co-authored papers are accepted for presentation at TRB 2020.
 * <span style="color:red"> New! </span> Oct. 2019. I win the Second Prize in the 2019 PacTrans Annual Conference best poster contest.
