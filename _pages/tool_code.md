@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ### Platforms
+* **T**raffic **P**erformance **S**core (TPS) Platform \[[website](http://tps.uwstarlab.org/)\]
+  * TPS indicating the overall performance of the freeway networks in the Greater Seattle area is calculated and visualized.
+
 * **D**igital **R**oadway **I**nteractive **V**isualization and **E**valuation **Net**work (**DRIVE Net**) \[[website](http://www.uwdrive.net/)\]\[[YouTube](https://www.youtube.com/watch?v=uzOl3cNoLvc)\]\[[report](https://www.wsdot.wa.gov/research/reports/fullreports/854.1.pdf)\]
   * A Transportation Big Data Storage, Management, Analytics, and Sharing Platform
  
