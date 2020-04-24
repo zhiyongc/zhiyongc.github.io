@@ -1,6 +1,6 @@
 ---
 title: Learning Reinforcement Learning
-date: 2199-01-01T00:00:00.000Z
+date: {}
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
