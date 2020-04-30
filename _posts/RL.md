@@ -1,7 +1,7 @@
 ---
 title: Learning Reinforcement Learning
-date: {}
-permalink: /posts/2012/08/blog-post-4/
+date: 2013-08-14
+permalink: /posts/2013/08/blog-post-5/
 tags:
   - cool posts
   - category1
