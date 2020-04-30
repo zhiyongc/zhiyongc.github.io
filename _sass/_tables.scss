@@ -10,6 +10,9 @@ table {
   border-collapse: collapse;
   border: 0px solid $light-gray;
 
+  // add by Zhiyong
+  text-align: left;
+
   & + table {
     margin-top: 1em;
   }
