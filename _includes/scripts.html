@@ -6,7 +6,7 @@
 
 <script type="text/javascript">
 
-export function toggleInfo(articleid,info) {
+function toggleInfo(articleid,info) {
 
 		var entry = document.getElementById(articleid);
 		var abs = document.getElementById('abs_'+articleid);
@@ -24,13 +24,11 @@ export function toggleInfo(articleid,info) {
 			return;
 		}
 
-		// check if one or the other is available
 		var absshow = false;
 		var bibshow = false;
 		(abs && abs.className.indexOf('noshow') == -1)? absshow = true: absshow = false;
 		(bib && bib.className == 'bibtex')? bibshow = true: bibshow = false;
 
-		// highlight original entry
 		if(entry) {
 			if (absshow || bibshow) {
 			entry.className = 'entry highlight show';
@@ -39,7 +37,6 @@ export function toggleInfo(articleid,info) {
 			}
 		}
 
-		// When there's a combination of abstract/review/bibtex showing, need to add class for correct styling
 		if(absshow) {
 			(bibshow)?abs.className = 'abstract nextshow':abs.className = 'abstract';
 		}

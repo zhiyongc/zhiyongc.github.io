@@ -35,7 +35,7 @@
 
 <meta http-equiv="cleartype" content="on">
 
-<!-- <script type="text/javascript">
+<script type="text/javascript">
 
 	function toggleInfo(articleid,info) {
 
@@ -55,13 +55,11 @@
 			return;
 		}
 
-		// check if one or the other is available
 		var absshow = false;
 		var bibshow = false;
 		(abs && abs.className.indexOf('noshow') == -1)? absshow = true: absshow = false;
 		(bib && bib.className == 'bibtex')? bibshow = true: bibshow = false;
 
-		// highlight original entry
 		if(entry) {
 			if (absshow || bibshow) {
 			entry.className = 'entry highlight show';
@@ -70,9 +68,8 @@
 			}
 		}
 
-		// When there's a combination of abstract/review/bibtex showing, need to add class for correct styling
 		if(absshow) {
 			(bibshow)?abs.className = 'abstract nextshow':abs.className = 'abstract';
 		}
 	}
-</script> -->
+</script>
