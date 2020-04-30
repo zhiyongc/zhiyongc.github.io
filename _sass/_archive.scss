@@ -3,6 +3,19 @@
    ========================================================================== */
 
 .archive {
+  
+  // Add by Zhiyong
+  color: Black;
+
+  // Add by Zhiyong
+  font-family: Arial, Helvetica, sans-serif;
+  
+  // Add by Zhiyong
+  font-size: 16px;
+
+  // add by Zhiyong
+  text-align: justify;
+
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
@@ -15,10 +28,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
