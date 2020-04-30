@@ -87,7 +87,7 @@ For urban systems to be smart and intelligent, they must be able to understand e
 					(Winner of Best Student Paper)
 				</span> -->
               	<p class="infolinks"> 
-              		[<a onclick="toggleInfo('cui2020learning','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('cui2020learning','abstract')">Abstract</a>]
               		[<a href="javascript:toggleInfo('cui2020learning','bibtex')">BibTeX</a>] 
               		[<a href="https://www.sciencedirect.com/science/article/pii/S0968090X19306448">PDF</a>]
               		<!-- [<a href="https://arxiv.org/abs/1802.07007">arXiv</a>] -->
