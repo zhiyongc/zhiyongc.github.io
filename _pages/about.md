@@ -397,7 +397,7 @@ publisher={Elsevier}
       	</tr>
       	<tr id="cui2018deep" class="entry">
       		<td>
-				<img src="../images/research/cui2018deep1.png" width="600" class="single_img">
+				<img src="../images/research/cui2018deep.png" width="600" class="single_img">
 <!-- 				<div class="polaroid">
 				  <img src="../images/research/cui2018deep.png" width="600" class="research_img">
 				  <div class="container">
