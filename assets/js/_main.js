@@ -95,4 +95,45 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+var toggleInfo = function(articleid,info) {
+
+  var entry = document.getElementById(articleid);
+  var abs = document.getElementById('abs_'+articleid);
+  var bib = document.getElementById('bib_'+articleid);
+
+  if (abs && info == 'abstract') {
+    if(abs.className.indexOf('abstract') != -1) {
+    abs.className.indexOf('noshow') == -1?abs.className = 'abstract noshow':abs.className = 'abstract';
+    }
+  } else if (bib && info == 'bibtex') {
+    if(bib.className.indexOf('bibtex') != -1) {
+    bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+    }
+  } else {
+    return;
+  }
+
+  // check if one or the other is available
+  var absshow = false;
+  var bibshow = false;
+  (abs && abs.className.indexOf('noshow') == -1)? absshow = true: absshow = false;
+  (bib && bib.className == 'bibtex')? bibshow = true: bibshow = false;
+
+  // highlight original entry
+  if(entry) {
+    if (absshow || bibshow) {
+    entry.className = 'entry highlight show';
+    } else {
+    entry.className = 'entry show';
+    }
+  }
+
+  // When there's a combination of abstract/review/bibtex showing, need to add class for correct styling
+  if(absshow) {
+    (bibshow)?abs.className = 'abstract nextshow':abs.className = 'abstract';
+  }
+}
+
 });
+
+
