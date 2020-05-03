@@ -14,14 +14,14 @@ I am a PhD Candidate in the Smart Transportation Application and Research Lab ([
 
 For urban systems to be smart and intelligent, they must be able to understand evolving urban patterns, reason about the future, and optimize the operation --  how should we leverage, devise, and interpret models that learn urban patterns from real-world data and adapt our current urban systems to the future? Towards this question and others, I work on machine learning, artificial intelligence, and optimization with a focus on mobility modeling, urban computing, and intelligent transportation systems. I'm specifically interested in building data-driven models that reflect the real world to inform forecasting and control tasks. My work touches on a range of problems including urban/transportation data integration/imputation/prediction, human mobility modeling, and traffic control in connected autonomous vehicle environments.
 
-<!-- ## Research Focus
-* Basic and Applied Research on Machine Learning and Deep Learning
-* Urban Computing & Transportation Data Science
-* Spatiotemporal Data Modeling/Imputation/Prediction
-* Connected Vehicles and Autonomous Driving
- -->
-
 ## News 
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th width="100%">&nbsp;</th>
+    </tr>
+  </thead>
+</table>
 * <span style="color:red"> New! </span> Mar. 2020. My first-author paper "Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction" is accepted by *Transportation Research Part C: Emerging Technologies* \[[doi](https://doi.org/10.1016/j.trc.2020.102620)\]
 * <span style="color:red"> New! </span> Mar. 2020. Our paper "Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models " is accepted by *IEEE Transaction on Intelligent Transportation Systems* \[[doi](https://ieeexplore.ieee.org/document/9069477)\]
 * <span style="color:red"> New! </span> Feb. 2020. Our paper "An Advanced Framework for Microscopic and Lane-level Macroscopic Traffic Parameters Estimation from UAV Video" is accepted by *IET Intelligent Transport Systems* \[[doi](https://doi.org/10.1049/iet-its.2019.0463)\]
@@ -557,3 +557,27 @@ publisher={Elsevier}
       	</tr>
 	</tbody>
 </table>
+
+## Teaching
+
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th width="100%">&nbsp;</th>
+    </tr>
+  </thead>
+</table>
+
+<dl>
+  <dt><strong>Instructor</strong></dt>
+  <dd>- <a href="https://zhiyongcui.com/CEE412_CET522/">CEE 412/CET 522: Transportation Data Management and Visualization</a> -- Winter 2020 [<a href="https://zhiyongcui.com/CEE412_CET522/docs/gallery/">Gallery</a>]</dd>
+  <dt><strong>Guest Lecture</strong></dt>
+  <dd>- CEE 412/CET 512: Transportation Data Management -- Winter 2019</dd>
+  <dd>- Engineering Discovery Days, University of Washington -- Spring 2017, 2018, 2019</dd>
+  <dt><strong>Teach Assistant</strong></dt>
+  <dd>- CEE 412 / CET 512: Transportation Data Management, UW, Winter 2019</dd>
+</dl>
+<!-- <ul>
+  <li><a href="https://zhiyongcui.com/CEE412_CET522/">CEE 412/CET 522: Transportation Data Management and Visualization</a> -- Winter 2020 (Instructor)[<a href="https://zhiyongcui.com/CEE412_CET522/">Gallery</a>]</li>
+</ul>
+ -->
