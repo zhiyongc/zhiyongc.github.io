@@ -22,11 +22,13 @@ For urban systems to be smart and intelligent, they must be able to understand e
     </tr>
   </thead>
 </table>
+* <span style="color:red"> New! </span> May. 2020. My first-author paper "Graph Markov Network for Traffic Forecasting with Missing Data" is accepted by *Transportation Research Part C: Emerging Technologies* (<span style="color:red">ASA TSIG Student Paper Award</span>) [[arXiv](https://arxiv.org/abs/1912.05457)\]
+* <span style="color:red"> New! </span> May. 2020. My first-author paper "Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values" is accepted by *Transportation Research Part C: Emerging Technologies* 
 * <span style="color:red"> New! </span> Mar. 2020. My first-author paper "Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction" is accepted by *Transportation Research Part C: Emerging Technologies* \[[doi](https://doi.org/10.1016/j.trc.2020.102620)\]
 * <span style="color:red"> New! </span> Mar. 2020. Our paper "Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models " is accepted by *IEEE Transaction on Intelligent Transportation Systems* \[[doi](https://ieeexplore.ieee.org/document/9069477)\]
 * <span style="color:red"> New! </span> Feb. 2020. Our paper "An Advanced Framework for Microscopic and Lane-level Macroscopic Traffic Parameters Estimation from UAV Video" is accepted by *IET Intelligent Transport Systems* \[[doi](https://doi.org/10.1049/iet-its.2019.0463)\]
 * <span style="color:red"> New! </span> Feb. 2020. Our paper "Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact" is accepted by *Transportation Research Record* \[[doi](https://doi.org/10.1177/0361198120911052)\]
-* <span style="color:red"> New! </span> Jan. 2020. I'm honoured to win the **Student Paper Award** from the [Transportation Statistics Interest Group of American Statistical Association (ASA)](https://community.amstat.org/tsig/home). \[[Paper](https://arxiv.org/abs/1912.05457)\] 
+* <span style="color:red"> New! </span> Jan. 2020. I'm honoured to win the Student Paper Award from the [Transportation Statistics Interest Group of American Statistical Association (ASA)](https://community.amstat.org/tsig/home). \[[Paper](https://arxiv.org/abs/1912.05457)\] 
 * <span style="color:red"> New! </span> Oct. 2019. Two first-author and two co-authored papers are accepted for presentation at TRB 2020.
 * <span style="color:red"> New! </span> Oct. 2019. I win the Second Prize in the 2019 PacTrans Annual Conference best poster contest.
 * <span style="color:red"> New! </span> Oct. 2019. I give a talk at INFORMS 2019 entitled: "Learning Traffic as a Graph: Graph based Neural networks for Network-scale Traffic Prediction" \[[link](https://www.abstractsonline.com/notify/notifyintro.asp?MKey={DA9FD773-1961-4264-8491-297D9CB12146}&NKey={E86BA192-F3B7-46AB-AB2E-573BCB2C8F78})\]
@@ -70,49 +72,6 @@ For urban systems to be smart and intelligent, they must be able to understand e
 		</tr>
     </thead>
 	<tbody>
-		<tr id="cui2020learning" class="entry">
-      		<td>
-				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
-				<div class="polaroid">
-				  <img src="../images/research/cui2020learning.png" width="600" class="research_img">
-				  <div class="container">
-				  Gated Graph Wavelet RNN
-				  </div>
-				</div>
-			</td>
-       		<td><strong>Z. Cui</strong>, R. Ke, Z. Pu, X. Ma, Y. Wang *</td>
-			<td>
-				Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction<br>
-				<!-- <span class="style_award">
-					(Winner of Best Student Paper)
-				</span> -->
-              	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2020learning','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2020learning','bibtex')">BibTeX</a>] 
-              		[<a href="https://www.sciencedirect.com/science/article/pii/S0968090X19306448">PDF</a>]
-              		<!-- [<a href="https://arxiv.org/abs/1802.07007">arXiv</a>] -->
-              		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
-            	</p>
-    		</td>
- 			<td>2020</td>
-        	<td>Transportation Research Part C: Emerging Technologies</td>
-        </tr>
-        <tr id="abs_cui2020learning" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: TNetwork-wide traffic forecasting is a critical component of modern intelligent transportation systems for urban traffic management and control. With the rise of artificial intelligence, many recent studies attempted to use deep neural networks to extract comprehensive features from traffic networks to enhance prediction performance, given the volume and variety of traffic data has been greatly increased. Considering that traffic status on a road segment is highly influenced by the upstream/downstream segments and nearby bottlenecks in the traffic network, extracting well-localized features from these neighboring segments is essential for a traffic prediction model. Although the convolution neural network or graph convolution neural network has been adopted to learn localized features from the complex geometric or topological structure of traffic networks, the lack of flexibility in the local-feature extraction process is still a big issue. Classical wavelet transform can detect sudden changes and peaks in temporal signals. Analogously, when extending to the graph/spectral domain, graph wavelet can concentrate more on key vertices in the graph and discriminatively extract localized features. In this study, to capture the complex spatial-temporal dependencies in network-wide traffic data, we learn the traffic network as a graph and propose a graph wavelet gated recurrent (GWGR) neural network. The graph wavelet is incorporated as a key component for extracting spatial features in the proposed model. A gated recurrent structure is employed to learn temporal dependencies in the sequence data. Comparing to baseline models, the proposed model can achieve state-of-the-art prediction performance and training efficiency on two real-world datasets. In addition, experiments show that the sparsity of graph wavelet weight matrices greatly increases the interpretability of GWGR.</div></td>
-      	</tr>
-      	<tr id="bib_cui2020learning" class="bibtex noshow">
-        	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@article{cui2020learning,
-title={Learning traffic as a graph: A gated graph wavelet recurrent neural network for network-scale traffic prediction},
-author={Cui, Zhiyong and Ke, Ruimin and Pu, Ziyuan and Ma, Xiaolei and Wang, Yinhai},
-journal={Transportation Research Part C: Emerging Technologies},
-volume={115},
-pages={102620},
-year={2020},
-publisher={Elsevier}
-}</pre>
-			</td>
-      	</tr>
 		<tr id="cui2019graph" class="entry">
       		<td>
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
@@ -138,12 +97,55 @@ publisher={Elsevier}
             	</p>
     		</td>
  			<td>2020</td>
-        	<td>Under Review <br>(Presented at TRB 2020)</td>
+        	<td>Transportation Research Part C: Emerging Technologies <br>(Presented at TRB 2020)</td>
         </tr>
         <tr id="abs_cui2019graph" class="abstract noshow">
         	<td colspan="5"><div align="justify"> <b>Abstract</b>: Traffic forecasting is a classical task for traffic management and it plays an important role in intelligent transportation systems. However, since traffic data are mostly collected by traffic sensors or probe vehicles, sensor failures and the lack of probe vehicles will inevitably result in missing values in the collected raw data for some specific links in the traffic network. Although missing values can be imputed, existing data imputation methods normally need long-term historical traffic state data. As for short-term traffic forecasting, especially under edge computing and online prediction scenarios, traffic forecasting models with the capability of handling missing values are needed. In this study, we consider the traffic network as a graph and define the transition between network-wide traffic states at consecutive time steps as a graph Markov process. In this way, missing traffic states can be inferred step by step and the spatial-temporal relationships among the roadway links can be Incorporated. Based on the graph Markov process, we propose a new neural network architecture for spatial-temporal data forecasting, i.e. the graph Markov network (GMN). By incorporating the spectral graph convolution operation, we also propose a spectral graph Markov network (SGMN). The proposed models are compared with baseline models and tested on three real-world traffic state datasets with various missing rates. Experimental results show that the proposed GMN and SGMN can achieve superior prediction performance in terms of both accuracy and efficiency. Besides, the proposed models' parameters, weights, and predicted results are comprehensively analyzed and visualized.</div></td>
       	</tr>
-      	<tr id="bib_cui2019graph" class="bibtex noshow">
+    <tr id="cui2020learning" class="entry">
+          <td>
+        <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+        <div class="polaroid">
+          <img src="../images/research/cui2020learning.png" width="600" class="research_img">
+          <div class="container">
+          Gated Graph Wavelet RNN
+          </div>
+        </div>
+      </td>
+          <td><strong>Z. Cui</strong>, R. Ke, Z. Pu, X. Ma, Y. Wang *</td>
+      <td>
+        Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction<br>
+        <!-- <span class="style_award">
+          (Winner of Best Student Paper)
+        </span> -->
+                <p class="infolinks"> 
+                  [<a href="javascript:toggleInfo('cui2020learning','abstract')">Abstract</a>]
+                  [<a href="javascript:toggleInfo('cui2020learning','bibtex')">BibTeX</a>] 
+                  [<a href="https://www.sciencedirect.com/science/article/pii/S0968090X19306448">PDF</a>]
+                  <!-- [<a href="https://arxiv.org/abs/1802.07007">arXiv</a>] -->
+                  <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
+              </p>
+        </td>
+      <td>2020</td>
+          <td>Transportation Research Part C: Emerging Technologies</td>
+        </tr>
+        <tr id="abs_cui2020learning" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <b>Abstract</b>: TNetwork-wide traffic forecasting is a critical component of modern intelligent transportation systems for urban traffic management and control. With the rise of artificial intelligence, many recent studies attempted to use deep neural networks to extract comprehensive features from traffic networks to enhance prediction performance, given the volume and variety of traffic data has been greatly increased. Considering that traffic status on a road segment is highly influenced by the upstream/downstream segments and nearby bottlenecks in the traffic network, extracting well-localized features from these neighboring segments is essential for a traffic prediction model. Although the convolution neural network or graph convolution neural network has been adopted to learn localized features from the complex geometric or topological structure of traffic networks, the lack of flexibility in the local-feature extraction process is still a big issue. Classical wavelet transform can detect sudden changes and peaks in temporal signals. Analogously, when extending to the graph/spectral domain, graph wavelet can concentrate more on key vertices in the graph and discriminatively extract localized features. In this study, to capture the complex spatial-temporal dependencies in network-wide traffic data, we learn the traffic network as a graph and propose a graph wavelet gated recurrent (GWGR) neural network. The graph wavelet is incorporated as a key component for extracting spatial features in the proposed model. A gated recurrent structure is employed to learn temporal dependencies in the sequence data. Comparing to baseline models, the proposed model can achieve state-of-the-art prediction performance and training efficiency on two real-world datasets. In addition, experiments show that the sparsity of graph wavelet weight matrices greatly increases the interpretability of GWGR.</div></td>
+        </tr>
+        <tr id="bib_cui2020learning" class="bibtex noshow">
+          <td colspan="5"><b>BibTeX</b>:
+                <pre>@article{cui2020learning,
+title={Learning traffic as a graph: A gated graph wavelet recurrent neural network for network-scale traffic prediction},
+author={Cui, Zhiyong and Ke, Ruimin and Pu, Ziyuan and Ma, Xiaolei and Wang, Yinhai},
+journal={Transportation Research Part C: Emerging Technologies},
+volume={115},
+pages={102620},
+year={2020},
+publisher={Elsevier}
+}</pre>
+      </td>
+    </tr>
+  	<tr id="bib_cui2019graph" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
               	<pre>@article{cui2019graph,
   title={Graph Markov Network for Traffic Forecasting with Missing Data},
