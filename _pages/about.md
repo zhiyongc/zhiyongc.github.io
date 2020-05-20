@@ -82,7 +82,7 @@ For urban systems to be smart and intelligent, they must be able to understand e
 				  </div>
 				</div>
 			</td>
-       		<td><strong>Z. Cui</strong>, R. Ke, Z. Pu, X. Ma, Y. Wang*</td>
+       		<td><strong>Z. Cui</strong>, L. Lin, Z. Pu, Y. Wang*</td>
 			<td>
 				Graph Markov Network for Traffic Forecasting with Missing Data<br>
 				<span class="style_award">
