@@ -22,15 +22,16 @@ For urban systems to be smart and intelligent, they must be able to understand e
     </tr>
   </thead>
 </table>
+* <span style="color:darkred"> New! </span> Jun. 2020. I'm honoured to win the <span style="color:darkred;font-weight:bold">CEE Department Chair's Award</span> from UW CEE department for recogonizing the teaching contributions.
 * <span style="color:darkred"> New! </span> May. 2020. Dr. Yinhai Wang and I give a presentation in [PacTrans Webinar](https://youtu.be/hw_fgkCQBmE): "Learning from Network-wide Traffic Sensor Data: Vehicle Travel and Traffic Performance Changes under the Influence of COVID-19". \[[YouTube](https://youtu.be/hw_fgkCQBmE)\]\[[Website](https://depts.washington.edu/pactrans/may-19-pactrans-webinar-featuring-yinhai-wang/)\]
 * <span style="color:darkred"> New! </span> May. 2020. A [Traffic Performance Score Website](http://tps.uwstarlab.org/) for Measuring the traffic performance in the Greater Seattle area is developed by a team leading by me and released. \[[Website](http://tps.uwstarlab.org/)\]\[News: [UW CEE](https://www.ce.washington.edu/news/article/2020-05-13/measuring-traffic-performance-during-covid-19), [Urban@UW](https://depts.washington.edu/urbanuw/news/measuring-traffic-performance-during-covid-19/)\]
-* <span style="color:darkred"> New! </span> May. 2020. My first-author paper "Graph Markov Network for Traffic Forecasting with Missing Data" is accepted by *Transportation Research Part C: Emerging Technologies* (<span style="color:blue">ASA TSIG Student Paper Award</span>) [[arXiv](https://arxiv.org/abs/1912.05457)\]
+* <span style="color:darkred"> New! </span> May. 2020. My first-author paper "Graph Markov Network for Traffic Forecasting with Missing Data" is accepted by *Transportation Research Part C: Emerging Technologies* (<span style="color:darkred">ASA TSIG Student Paper Award</span>) [[arXiv](https://arxiv.org/abs/1912.05457)\]
 * <span style="color:darkred"> New! </span> May. 2020. My first-author paper "Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values" is accepted by *Transportation Research Part C: Emerging Technologies* 
 * <span style="color:darkred"> New! </span> Mar. 2020. My first-author paper "Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction" is accepted by *Transportation Research Part C: Emerging Technologies* \[[doi](https://doi.org/10.1016/j.trc.2020.102620)\]
 * <span style="color:darkred"> New! </span> Mar. 2020. Our paper "Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models " is accepted by *IEEE Transaction on Intelligent Transportation Systems* \[[doi](https://ieeexplore.ieee.org/document/9069477)\]
 * <span style="color:darkred"> New! </span> Feb. 2020. Our paper "An Advanced Framework for Microscopic and Lane-level Macroscopic Traffic Parameters Estimation from UAV Video" is accepted by *IET Intelligent Transport Systems* \[[doi](https://doi.org/10.1049/iet-its.2019.0463)\]
 * <span style="color:darkred"> New! </span> Feb. 2020. Our paper "Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact" is accepted by *Transportation Research Record* \[[doi](https://doi.org/10.1177/0361198120911052)\]
-* <span style="color:darkred"> New! </span> Jan. 2020. I'm honoured to win the <span style="color:blue">Student Paper Award</span> from the [Transportation Statistics Interest Group of American Statistical Association (ASA)](https://community.amstat.org/tsig/home). \[[Paper](https://arxiv.org/abs/1912.05457)\] 
+* <span style="color:darkred"> New! </span> Jan. 2020. I'm honoured to win the <span style="color:darkred;font-weight:bold">Student Paper Award</span> from the [Transportation Statistics Interest Group of American Statistical Association (ASA)](https://community.amstat.org/tsig/home). \[[Paper](https://arxiv.org/abs/1912.05457)\] 
 * <span style="color:darkred"> New! </span> Oct. 2019. Two first-author and two co-authored papers are accepted for presentation at TRB 2020.
 * <span style="color:darkred"> New! </span> Oct. 2019. I win the Second Prize in the 2019 PacTrans Annual Conference best poster contest.
 * <span style="color:darkred"> New! </span> Oct. 2019. I give a talk at INFORMS 2019 entitled: "Learning Traffic as a Graph: Graph based Neural networks for Network-scale Traffic Prediction" \[[link](https://www.abstractsonline.com/notify/notifyintro.asp?MKey={DA9FD773-1961-4264-8491-297D9CB12146}&NKey={E86BA192-F3B7-46AB-AB2E-573BCB2C8F78})\]
@@ -601,7 +602,7 @@ publisher={Elsevier}
 
 <dl>
   <dt><strong>Instructor</strong></dt>
-  <dd>- <a href="https://zhiyongcui.com/CEE412_CET522/">CEE 412/CET 522: Transportation Data Management and Visualization</a> -- Winter 2020 [<a href="https://zhiyongcui.com/CEE412_CET522/docs/gallery/">Gallery</a>]</dd>
+  <dd>- <a href="https://zhiyongcui.com/CEE412_CET522/">CEE 412/CET 522: Transportation Data Management and Visualization</a> -- Winter 2020 [<a href="https://zhiyongcui.com/CEE412_CET522/docs/gallery/">Gallery</a>] (<span style="color:darkred;font-weight:bold">CEE Department Chair's Award</span>)</dd>
   <dt><strong>Guest Lecture</strong></dt>
   <dd>- CEE 412/CET 512: Transportation Data Management -- Winter 2019</dd>
   <dd>- Engineering Discovery Days, University of Washington -- Spring 2017, 2018, 2019</dd>
