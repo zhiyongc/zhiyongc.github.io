@@ -1,14 +1,13 @@
 ---
-permalink: /
-title: "Zhiyong Cui"
-excerpt: "About me"
+title: Zhiyong Cui
+permalink: "/"
+excerpt: About me
 author_profile: true
 layout: archive
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- "/about/"
+- "/about.html"
 ---
-
 
 I am a PhD Candidate in the Smart Transportation Application and Research Lab ([STAR Lab](http://www.uwstarlab.org/)) in the Department of Civil & Environmental Engineering at the [University of Washington](https://www.washington.edu/) advised by Prof. [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). I received my Master degree in Software Engineering from [Peking University](http://english.pku.edu.cn/) and my Bachelor degree in Software Engineering from [Beihang University](https://ev.buaa.edu.cn/). I was a visiting master student in the College of Electrical Engineering and Computer Science at [National Taiwan University](http://www.ntu.edu.tw/english/) advised by Prof. [Hsin-Mu (Michael) Tsai](https://www.csie.ntu.edu.tw/~hsinmu/wiki/). 
 

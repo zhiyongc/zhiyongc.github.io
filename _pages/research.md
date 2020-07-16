@@ -1,11 +1,9 @@
 ---
+title: Research
+permalink: "/research/"
 layout: archive
-title: "Research"
-permalink: /research/
 author_profile: true
 ---
-
-
 
 <table style="width:100%">
 	<tr>
