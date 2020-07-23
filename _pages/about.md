@@ -91,19 +91,34 @@ For urban systems to be smart and intelligent, they must be able to understand e
 					(ASA TSIG Student Paper Award)
 				</span>
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2019graph','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2019graph','bibtex')">BibTeX</a>] 
+              		[<a href="javascript:toggleInfo('cui2020graph','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('cui2020graph','bibtex')">BibTeX</a>] 
               		<!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
               		[<a href="https://arxiv.org/abs/1912.05457">arXiv</a>]
+                  [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>]
+                  [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>]
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
             	</p>
     		</td>
  			<td>2020</td>
-        	<td>Transportation Research Part C: Emerging Technologies <br>(Presented at TRB 2020)</td>
+        	<td>Transportation Research Part C: Emerging Technologies</td>
         </tr>
-        <tr id="abs_cui2019graph" class="abstract noshow">
+        <tr id="abs_cui2020graph" class="abstract noshow">
         	<td colspan="5"><div align="justify"> <b>Abstract</b>: Traffic forecasting is a classical task for traffic management and it plays an important role in intelligent transportation systems. However, since traffic data are mostly collected by traffic sensors or probe vehicles, sensor failures and the lack of probe vehicles will inevitably result in missing values in the collected raw data for some specific links in the traffic network. Although missing values can be imputed, existing data imputation methods normally need long-term historical traffic state data. As for short-term traffic forecasting, especially under edge computing and online prediction scenarios, traffic forecasting models with the capability of handling missing values are needed. In this study, we consider the traffic network as a graph and define the transition between network-wide traffic states at consecutive time steps as a graph Markov process. In this way, missing traffic states can be inferred step by step and the spatial-temporal relationships among the roadway links can be Incorporated. Based on the graph Markov process, we propose a new neural network architecture for spatial-temporal data forecasting, i.e. the graph Markov network (GMN). By incorporating the spectral graph convolution operation, we also propose a spectral graph Markov network (SGMN). The proposed models are compared with baseline models and tested on three real-world traffic state datasets with various missing rates. Experimental results show that the proposed GMN and SGMN can achieve superior prediction performance in terms of both accuracy and efficiency. Besides, the proposed models' parameters, weights, and predicted results are comprehensively analyzed and visualized.</div></td>
       	</tr>
+        <tr id="bib_cui2020graph" class="bibtex noshow">
+          <td colspan="5"><b>BibTeX</b>:
+                <pre>@article{cui2020graph,
+  title={Graph markov network for traffic forecasting with missing data},
+  author={Cui, Zhiyong and Lin, Longfei and Pu, Ziyuan and Wang, Yinhai},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={117},
+  pages={102671},
+  year={2020},
+  publisher={Elsevier}
+}</pre>
+      </td>
+    </tr>
     <tr id="lstm_i" class="entry">
           <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
@@ -118,8 +133,8 @@ For urban systems to be smart and intelligent, they must be able to understand e
       <td>
         Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values<br>
                 <p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('lstm_i','abstract')">Abstract</a>]
-                  <!-- [<a href="javascript:toggleInfo('lstm_i','bibtex')">BibTeX</a>]  -->
+                  [<a href="javascript:toggleInfo('cui2020stacked','abstract')">Abstract</a>]
+                  [<a href="javascript:toggleInfo('cui2020stacked','bibtex')">BibTeX</a>] 
                   <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
                   <!-- [<a href="https://arxiv.org/abs/1912.05457">arXiv</a>] -->
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
@@ -128,9 +143,19 @@ For urban systems to be smart and intelligent, they must be able to understand e
       <td>2020</td>
           <td>Transportation Research Part C: Emerging Technologies</td>
         </tr>
-        <tr id="abs_lstm_i" class="abstract noshow">
+        <tr id="abs_cui2020stacked" class="abstract noshow">
           <td colspan="5"><div align="justify"> <b>Abstract</b>: Short-term traffic forecasting based on deep learning methods, especially recurrent neural networks (RNN), has received much attention in recent years. However, the potential of RNN-based models in traffic forecasting has not yet been fully exploited in terms of the predictive power of spatial-temporal data and the capability of handling missing data. In this paper, we focus on RNN-based models and attempt to reformulate the way to incorporate RNN and its variants into traffic prediction models. A stacked bidirectional and unidirectional LSTM network architecture (SBU-LSTM) is proposed to assist the design of neural network structures for traffic state forecasting. As a key component of the architecture, the bidirectional LSTM (BDLSM) is exploited to capture the forward and backward temporal dependencies in spatiotemporal data. To deal with missing values in spatial-temporal data, we also propose a data imputation mechanism in the LSTM structure (LSTM-I) by designing an imputation unit to infer missing values and assist traffic prediction. The bidirectional version of LSTM-I is incorporated in the SBU-LSTM architecture. Two real-world network-wide traffic state datasets are used to conduct experiments and published to facilitate further traffic prediction research. The prediction performance of multiple types of multi-layer LSTM or BDLSTM models is evaluated. Experimental results indicate that the proposed SBU-LSTM architecture, especially the two-layer BDLSTM network, can achieve superior performance for the network-wide traffic prediction in both accuracy and robustness. Further, comprehensive comparison results show that the proposed data imputation mechanism in the RNN-based models can achieve outstanding prediction performance when the model's input data contains different patterns of missing values.</div></td>
         </tr>
+        <tr id="bib_cui2020stacked" class="bibtex noshow">
+          <td colspan="5"><b>BibTeX</b>:
+                <pre>@article{cui2020stacked,
+  title={Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values},
+  author={Cui, Zhiyong and Ke, Ruimin and Pu, Ziyuan and Wang, Yinhai},
+  journal={arXiv preprint arXiv:2005.11627},
+  year={2020}
+}</pre>
+      </td>
+    </tr>
     <tr id="cui2020learning" class="entry">
           <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
@@ -283,7 +308,7 @@ publisher={Elsevier}
               		[<a href="javascript:toggleInfo('cui2019traffic','bibtex')">BibTeX</a>] 
               		[<a href="https://ieeexplore.ieee.org/abstract/document/8917706">PDF</a>] 
               		[<a href="https://arxiv.org/abs/1802.07007">arXiv</a>]
-              		[<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>]
+              		[<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">Code</a>]
             	</p>
     		</td>
  			<td>2019</td>
@@ -444,7 +469,7 @@ publisher={Elsevier}
               		[<a href="javascript:toggleInfo('cui2018deep','bibtex')">BibTeX</a>] 
               		[<a href="http://urbcomp.ist.psu.edu/2017/papers/Deep.pdf">PDF</a>]
               		[<a href="https://arxiv.org/abs/1801.02143">arXiv</a>]
-              		[<a href="https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM">code</a>]
+              		[<a href="https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM">Code</a>]
             	</p>
     		</td>
  			<td>2017</td>

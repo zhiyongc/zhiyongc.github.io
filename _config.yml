@@ -144,7 +144,8 @@ author:
   employer: University of Washington, Seattle
   googlescholar: https://scholar.google.com/citations?user=jytR7oAAAAAJ&hl=en&oi=ao
   email: zhiyongc@uw.edu
-  CV: files/CV.pdf
+  # CV: # files/CV.pdf
+  CV:
   researchgate: 
   uri: 
   bitbucket: 
