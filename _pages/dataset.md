@@ -1,7 +1,7 @@
 ---
+title: Dataset
+permalink: "/dataset/"
 layout: archive
-title: "Dataset"
-permalink: /dataset/
 author_profile: true
 ---
 

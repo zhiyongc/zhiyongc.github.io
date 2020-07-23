@@ -1,7 +1,7 @@
 ---
+title: Tools & Code
+permalink: "/tool_code/"
 layout: archive
-title: "Tools & Code"
-permalink: /tool_code/
 author_profile: true
 ---
 

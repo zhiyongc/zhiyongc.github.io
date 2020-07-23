@@ -1,11 +1,12 @@
 ---
-layout: archive
 title: " "
-permalink: /cv/
+permalink: "/cv/"
+layout: archive
 author_profile: true
 redirect_from:
-  - /resume
+- "/resume"
 ---
+
 <embed src="https://zhiyongc.github.io/files/CV.pdf" type="application/pdf" height="330px"/>
 
 <!--{% include base_path %}-->
