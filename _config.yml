@@ -171,7 +171,8 @@ author:
   xing: 
   youtube: 
   wikipedia: 
-  blog: https://zhiyongcui.com/blog/
+  blog:
+  # blog: https://zhiyongcui.com/blog/
 include:
 - ".htaccess"
 - _pages
