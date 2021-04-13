@@ -67,7 +67,8 @@ defaults:
 locale: en-US
 title_separator: "-"
 name: Zhiyong Cui
-description: PhD, UW Data Science Postdoctoral Fellow, Postdoc in Civil and Environmental Engineering, University of Washington
+description: PhD, UW Data Science Postdoctoral Fellow, Postdoc in Civil and Environmental
+  Engineering, University of Washington
 url: https://zhiyongc.github.io
 baseurl: ''
 repository: zhiyongc.github.io
@@ -139,7 +140,7 @@ logo: "/assets/UW_square.png"
 author:
   name: Zhiyong Cui
   avatar: Zhiyong.jpg
-  bio: <p> PhD, Postdoc in CEE <br /> UW Data Science Postdoctoral Fellow <br /> 
+  bio: "<p> PhD, Postdoc in CEE <br /> UW Data Science Postdoctoral Fellow <br />"
   location: 
   employer: University of Washington, Seattle
   googlescholar: https://scholar.google.com/citations?user=jytR7oAAAAAJ&hl=en&oi=ao
