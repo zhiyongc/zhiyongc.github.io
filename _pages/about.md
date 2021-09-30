@@ -21,6 +21,7 @@ For urban systems to be smart and intelligent, they must be able to understand e
     </tr>
   </thead>
 </table>
+* <span style="color:darkred"> New! </span> Sept. 2021. I'm honoured to receive <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize). 
 * <span style="color:darkred"> New! </span> Apr. 2021. I'm honoured to receive the title of <span style="color:darkred">UW Data Science Postdoctoral Fellow</span> from the eScience Institue, UW. 
 * <span style="color:darkred"> New! </span> Mar. 2021. Gradudation! I defend my PhD final exam and graduate!
 * <span style="color:darkred"> New! </span> Oct. 2020. Our paper receives the <span style="color:darkred">Best Paper Award</span> presented by  IEEE International Smart Cities Conference 2020. 
