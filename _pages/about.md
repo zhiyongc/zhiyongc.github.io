@@ -9,9 +9,11 @@ redirect_from:
 - "/about.html"
 ---
 
-I am a **Postdoctoral Research Associate** in the Department of Civil & Environmental Engineering at the [University of Washington](https://www.washington.edu/) advised by Prof. [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). I'm also a **UW Data Science Postdoctoral Fellow** at the [eScience Institute](https://escience.washington.edu/). I received my Master degree in Software Engineering from [Peking University](http://english.pku.edu.cn/) and my Bachelor degree in Software Engineering from [Beihang University](https://ev.buaa.edu.cn/). I was a visiting master student in the College of Electrical Engineering and Computer Science at [National Taiwan University](http://www.ntu.edu.tw/english/) advised by Prof. [Hsin-Mu (Michael) Tsai](https://www.csie.ntu.edu.tw/~hsinmu/wiki/). 
+I am an **Associate Professor** in the **School of Transportation Science and Engineering** at the **Beihang University**, China. I was a UW Data Science Postdoctoral Fellow at the University of Washington. I received a Ph.D. degree in Civil Engineering (Transportation Engineering) from the University of Washington, a Master degree in Software Engineering from Peking University, and a Bachelor degree in Software Engineering from Beihang University. I was a visiting master student in the College of Electrical Engineering and Computer Science at National Taiwan University.
 
-For urban systems to be smart and intelligent, they must be able to understand evolving urban patterns, reason about the future, and optimize the operation --  how should we leverage, devise, and interpret models that learn urban patterns from real-world data and adapt our current urban systems to the future? Towards this question and others, I work on machine learning, artificial intelligence, and optimization with a focus on mobility modeling, urban computing, and intelligent transportation systems. I'm specifically interested in building data-driven models that reflect the real world to inform forecasting and control tasks. My work touches on a range of problems including urban/transportation data integration/imputation/prediction, human mobility modeling, and traffic control in connected autonomous vehicle environments.
+For urban systems to be smart and intelligent, they must be able to understand evolving patterns, reason about special phenomena, and optimize the operation in large-scale regions --  how should we leverage, devise, and interpret models that learn urban patterns from real-world data and adapt our current urban systems to the future? Towards this question and others, I work on building data-driven models using **machine learning** and **deep learning** technologies to reflect the real world. My work touches on a range of transportation problems including **urban computing, traffic forecasting, human mobility modeling, autonomous driving, traffic control,** and **traffic simulation**. I'm <span style="color:darkred">open to new topics and collaborations</span>, and feel free to reach out to me if you are interested.
+
+
 
 ## News 
 <table style="width:100%">
@@ -21,7 +23,10 @@ For urban systems to be smart and intelligent, they must be able to understand e
     </tr>
   </thead>
 </table>
-* <span style="color:darkred"> New! </span> Sept. 2021. I'm honoured to receive <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize). 
+* <span style="color:darkred"> New! </span> Dec. 2022. I'm honoured to receive the <span style="color:darkred">HKSTS Outstanding Dissertation Award cum Gordon Newell Memorial Prize</span>. \[[link](http://www.hksts.org/awards_frame.htm)\]
+* <span style="color:darkred"> New! </span> Mar. 2022. I join the School of Transportation Science and Engineering at Beihang University as an [Associate Professor](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm). 
+* <span style="color:darkred"> New! </span> Jan. 2022. I'm honoured to receive Honorable Mention in the <span style="color:darkred"> TRB AED50 Best Dissertation Competition</span>. \[[link](https://sites.google.com/view/trbaed50/announcements/awards)\]
+* <span style="color:darkred"> New! </span> Sept. 2021. I'm honoured to receive the <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize).  \[[link](https://ieee-itss.org/awards/best-dissertation/)\]
 * <span style="color:darkred"> New! </span> Apr. 2021. I'm honoured to receive the title of <span style="color:darkred">UW Data Science Postdoctoral Fellow</span> from the eScience Institue, UW. 
 * <span style="color:darkred"> New! </span> Mar. 2021. Gradudation! I defend my PhD final exam and graduate!
 * <span style="color:darkred"> New! </span> Oct. 2020. Our paper receives the <span style="color:darkred">Best Paper Award</span> presented by  IEEE International Smart Cities Conference 2020. 
@@ -65,6 +70,15 @@ For urban systems to be smart and intelligent, they must be able to understand e
 
 <!-- * 	Liang, Y., **Cui, Z.**, Tian, Y., Chen, H., & Wang, Y.\* (2018). A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation. *Transportation Research Record*. \[[arXiv](https://arxiv.org/abs/1801.03818)\] -->
 
+## For Prospective Students
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th width="100%">&nbsp;</th>
+    </tr>
+  </thead>
+</table>
+* I'm looking for two Master students who will start in 2023 Fall. Please feel free to contact me if you are interested in working on "AI + Transportation" topics.
 
 
 ## Featured Research

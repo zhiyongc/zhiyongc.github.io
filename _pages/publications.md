@@ -15,6 +15,9 @@ author_profile: true
 {% endfor %}
 -->
 
+### New publications 
+* Please refer to [Google Scholar](https://scholar.google.com/citations?user=kKHcRDkAAAAJ&hl=en) to find my lastest research articles.
+
 ### Dissertation
 - **Cui Z**. (2021) Deep Learning for Short-term Network-wide Road Traffic Forecasting. *Ph.D., Civil Engineering, Unversity of Washington* \[[summary](/files/dissertation_summary.pdf)\] \[[url](http://hdl.handle.net/1773/47035)\]
 
@@ -67,7 +70,7 @@ author_profile: true
 
 <!--1.	Pu Z, **Cui Z**, Vaa T, Wang S, Wang Y. (2020) Road Surface Friction Prediction Based on Gated Recurrent Unit Networks Using 1istorical Data with Missing Values. *Transportation Research Board 99th Annual Meeting* (accepted)-->
 
-## Technical Report
+### Technical Report
 1.	Wang Y, Ban X, **Cui Z**, Zhu M. (2019) An artificial intelligence platform for network-wide congestion detection and prediction using multi-source data. Connected Cities and Smart Mobility (C2SMART) Research Report (USDOT award number: 69A3551747124)\[[url](http://c2smart.engineering.nyu.edu/2019/04/19/an-artificial-intelligence-platform-for-network-wide-congestion-detection-and-prediction-using-multi-source-data-2/)\]\[[report](http://c2smart.engineering.nyu.edu/wp-content/uploads/2019/07/Transportation_AI%20Platform_FinalReport_C2SMART_Wang.pdf)\]\[[dataset](https://zenodo.org/record/3258904#.Xc2oKldKiUk)\]
 2.	Wang Y, **Cui Z**, Henrickson, K. (2018) Pilot Testing of SHRP2 Reliability Data and Analytical Products: Washington. SHRP2 Reliability Project L38 Report.
 3.	Hallenbeck M, Ishimaru J, **Cui Z**, Wang Y, Wright D, Zhang W, Henrickson K. (2017) Implementing the Routine Computation and Use of Roadway Performance Measures Within WSDOT. SHRP2 PM Software Research Report. (Grant number: Agreement T1461, Task 16)

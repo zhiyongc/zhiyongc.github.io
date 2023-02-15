@@ -1,6 +1,6 @@
 ---
 title: Zhiyong Cui - Homepage
-timezone: America/Los_Angeles
+timezone: Asia/Shanghai
 collections:
   portfolio:
     title: Portfolio
@@ -67,9 +67,8 @@ defaults:
 locale: en-US
 title_separator: "-"
 name: Zhiyong Cui
-description: PhD, UW Data Science Postdoctoral Fellow, Postdoc in Civil and Environmental
-  Engineering, University of Washington
-url: https://zhiyongc.github.io
+description: Associate Professor, School of Transportation Science and Engineering, Beihang University
+url: "https://zhiyongc.github.io"
 baseurl: ''
 repository: zhiyongc.github.io
 teaser: Zhiyong.jpg
@@ -140,11 +139,11 @@ logo: "/assets/UW_square.png"
 author:
   name: Zhiyong Cui
   avatar: Zhiyong.jpg
-  bio: "<p> PhD, Postdoc in CEE <br /> UW Data Science Postdoctoral Fellow <br />"
+  bio: "<p> Associate Professor <br /> Beihang University <br />"
   location: 
-  employer: University of Washington, Seattle
-  googlescholar: https://scholar.google.com/citations?user=jytR7oAAAAAJ&hl=en&oi=ao
-  email: zhiyongc@uw.edu
+  employer: Beihang University, China
+  googlescholar: https://scholar.google.com/citations?user=kKHcRDkAAAAJ&hl=en
+  email: zhiyongc@buaa.edu.cn
   CV: 
   researchgate: 
   uri: 
