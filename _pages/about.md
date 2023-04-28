@@ -9,7 +9,7 @@ redirect_from:
 - "/about.html"
 ---
 
-I am an **Associate Professor** in the **School of Transportation Science and Engineering** at the **Beihang University**, China. I was a UW Data Science Postdoctoral Fellow at the University of Washington. I received a Ph.D. degree in Civil Engineering (Transportation Engineering) from the University of Washington, a Master degree in Software Engineering from Peking University, and a Bachelor degree in Software Engineering from Beihang University. I was a visiting master student in the College of Electrical Engineering and Computer Science at National Taiwan University.
+I am a **Professor** in the **School of Transportation Science and Engineering** at **Beihang University**. Before joining Beihang University, I was a UW Data Science Postdoctoral Fellow at the University of Washington. I received a Ph.D. degree in Civil Engineering (Transportation Engineering) from the University of Washington, a Master degree in Software Engineering from Peking University, and a Bachelor degree in Software Engineering from Beihang University. I was a visiting master student in the College of Electrical Engineering and Computer Science at National Taiwan University.
 
 For urban systems to be smart and intelligent, they must be able to understand evolving patterns, reason about special phenomena, and optimize the operation in large-scale regions --  how should we leverage, devise, and interpret models that learn urban patterns from real-world data and adapt our current urban systems to the future? Towards this question and others, I work on building data-driven models using **machine learning** and **deep learning** technologies to reflect the real world. My work touches on a range of transportation problems including **urban computing, traffic forecasting, human mobility modeling, autonomous driving, traffic control,** and **traffic simulation**. I'm <span style="color:darkred">open to new topics and collaborations</span>, and feel free to reach out to me if you are interested.
 
@@ -78,7 +78,7 @@ For urban systems to be smart and intelligent, they must be able to understand e
     </tr>
   </thead>
 </table>
-* I'm looking for two Master students who will start in 2023 Fall. Please feel free to contact me if you are interested in working on "AI + Transportation" topics.
+* I'm looking for Master and Ph.D. student applicants and undergrad interns. Please feel free to contact me if you are interested in working on "AI + Transportation" topics.
 
 
 ## Featured Research
