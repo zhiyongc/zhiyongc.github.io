@@ -23,25 +23,29 @@ For urban systems to be smart and intelligent, they must be able to understand e
     </tr>
   </thead>
 </table>
+* <span style="color:darkred"> New! </span> Jan. 2024. I'm honoured to receive the <span style="color:darkred">KIKUCHI-KARLAFTIS 2023 Best Paper Award from TRB AI Committee</span>. 
+* <span style="color:darkred"> New! </span> Mar. 2023. I start to work as a [Professor](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm) in the School of Transportation Science and Engineering at Beihang University. 
 * <span style="color:darkred"> New! </span> Dec. 2022. I'm honoured to receive the <span style="color:darkred">HKSTS Outstanding Dissertation Award cum Gordon Newell Memorial Prize</span>. \[[link](http://www.hksts.org/awards_frame.htm)\]
-* <span style="color:darkred"> New! </span> Mar. 2022. I join the School of Transportation Science and Engineering at Beihang University as an [Associate Professor](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm). 
-* <span style="color:darkred"> New! </span> Jan. 2022. I'm honoured to receive Honorable Mention in the <span style="color:darkred"> TRB AED50 Best Dissertation Competition</span>. \[[link](https://sites.google.com/view/trbaed50/announcements/awards)\]
-* <span style="color:darkred"> New! </span> Sept. 2021. I'm honoured to receive the <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize).  \[[link](https://ieee-itss.org/awards/best-dissertation/)\]
-* <span style="color:darkred"> New! </span> Apr. 2021. I'm honoured to receive the title of <span style="color:darkred">UW Data Science Postdoctoral Fellow</span> from the eScience Institue, UW. 
-* <span style="color:darkred"> New! </span> Mar. 2021. Gradudation! I defend my PhD final exam and graduate!
-* <span style="color:darkred"> New! </span> Oct. 2020. Our paper receives the <span style="color:darkred">Best Paper Award</span> presented by  IEEE International Smart Cities Conference 2020. 
-* <span style="color:darkred"> New! </span> Oct. 2020. I give a talk at the Reasoning in GeoAI Mini-workshop. \[[link](http://spatial.ucsb.edu/mini-workshop/Reasoning_GeoAI/)\] 
-* <span style="color:darkred"> New! </span> Sep. 2020. I give a talk at 2020 JSM’s Transportation Statistics Interest Group business meeting. 
-* <span style="color:darkred"> New! </span> Jun. 2020. I'm honoured to receive the <span style="color:darkred">CEE Department Chair's Award</span> from UW CEE department for recognizing the teaching contributions. \[[link](https://www.ce.washington.edu/news/article/2020-07-08/cee-department-award-winners-announced)\]
-* <span style="color:darkred"> New! </span> May. 2020. Dr. Yinhai Wang and I give a presentation in [PacTrans Webinar](https://youtu.be/hw_fgkCQBmE): "Learning from Network-wide Traffic Sensor Data: Vehicle Travel and Traffic Performance Changes under the Influence of COVID-19". \[[YouTube](https://youtu.be/hw_fgkCQBmE)\]\[[Website](https://depts.washington.edu/pactrans/may-19-pactrans-webinar-featuring-yinhai-wang/)\]
-* <span style="color:darkred"> New! </span> May. 2020. A [Traffic Performance Score Website](http://tps.uwstarlab.org/) for Measuring the traffic performance in the Greater Seattle area is developed by a team leading by me and released. \[[Website](http://tps.uwstarlab.org/)\]\[News: [UW CEE](https://www.ce.washington.edu/news/article/2020-05-13/measuring-traffic-performance-during-covid-19), [Urban@UW](https://depts.washington.edu/urbanuw/news/measuring-traffic-performance-during-covid-19/)\]
-* <span style="color:darkred"> New! </span> May. 2020. Our paper "Graph Markov Network for Traffic Forecasting with Missing Data" is accepted by *Transportation Research Part C: Emerging Technologies* <!-- (<span style="color:darkred">ASA TSIG Student Paper Award</span>)  -->[[arXiv](https://arxiv.org/abs/1912.05457)\] \[[doi](https://doi.org/10.1016/j.trc.2020.102671)\]
-* <span style="color:darkred"> New! </span> May. 2020. Our paper "Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values" is accepted by *Transportation Research Part C: Emerging Technologies* \[[doi](https://doi.org/10.1016/j.trc.2020.102674)\]
-* <span style="color:darkred"> New! </span> Mar. 2020. Our paper "Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction" is accepted by *Transportation Research Part C: Emerging Technologies* \[[doi](https://doi.org/10.1016/j.trc.2020.102620)\]
-* <span style="color:darkred"> New! </span> Mar. 2020. Our paper "Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models " is accepted by *IEEE Transaction on Intelligent Transportation Systems* \[[doi](https://ieeexplore.ieee.org/document/9069477)\]
-* <span style="color:darkred"> New! </span> Feb. 2020. Our paper "An Advanced Framework for Microscopic and Lane-level Macroscopic Traffic Parameters Estimation from UAV Video" is accepted by *IET Intelligent Transport Systems* \[[doi](https://doi.org/10.1049/iet-its.2019.0463)\]
-* <span style="color:darkred"> New! </span> Feb. 2020. Our paper "Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact" is accepted by *Transportation Research Record* \[[doi](https://doi.org/10.1177/0361198120911052)\]
-* <span style="color:darkred"> New! </span> Jan. 2020. I'm honoured to receive the <span style="color:darkred;">Student Paper Award</span> presented by the [Transportation Statistics Interest Group of American Statistical Association (ASA)](https://community.amstat.org/tsig/home). \[[Paper](https://arxiv.org/abs/1912.05457)\] 
+<!-- * <span style="color:darkred"> New! </span> Mar. 2022. I join the School of Transportation Science and Engineering at Beihang University as an [Associate Professor](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm).  -->
+<!-- * <span style="color:darkred"> New! </span> Jan. 2022. I'm honoured to receive Honorable Mention in the <span style="color:darkred"> TRB AED50 Best Dissertation Competition</span>. \[[link](https://sites.google.com/view/trbaed50/announcements/awards)\] -->
+<!-- * <span style="color:darkred"> New! </span> Sept. 2021. I'm honoured to receive the <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize).  \[[link](https://ieee-itss.org/awards/best-dissertation/)\] -->
+<!-- * <span style="color:darkred"> New! </span> Apr. 2021. I'm honoured to receive the title of <span style="color:darkred">UW Data Science Postdoctoral Fellow</span> from the eScience Institue, UW.  -->
+<!-- * <span style="color:darkred"> New! </span> Mar. 2021. Gradudation! I defend my PhD final exam and graduate! -->
+<!-- * <span style="color:darkred"> New! </span> Oct. 2020. Our paper receives the <span style="color:darkred">Best Paper Award</span> presented by  IEEE International Smart Cities Conference 2020.  -->
+<!-- * <span style="color:darkred"> New! </span> Oct. 2020. I give a talk at the Reasoning in GeoAI Mini-workshop. \[[link](http://spatial.ucsb.edu/mini-workshop/Reasoning_GeoAI/)\]  -->
+<!-- * <span style="color:darkred"> New! </span> Sep. 2020. I give a talk at 2020 JSM’s Transportation Statistics Interest Group business meeting.  -->
+<!-- * <span style="color:darkred"> New! </span> Jun. 2020. I'm honoured to receive the <span style="color:darkred">CEE Department Chair's Award</span> from UW CEE department for recognizing the teaching contributions. \[[link](https://www.ce.washington.edu/news/article/2020-07-08/cee-department-award-winners-announced)\] -->
+<!-- * <span style="color:darkred"> New! </span> May. 2020. Dr. Yinhai Wang and I give a presentation in [PacTrans Webinar](https://youtu.be/hw_fgkCQBmE): "Learning from Network-wide Traffic Sensor Data: Vehicle Travel and Traffic Performance Changes under the Influence of COVID-19". \[[YouTube](https://youtu.be/hw_fgkCQBmE)\]\[[Website](https://depts.washington.edu/pactrans/may-19-pactrans-webinar-featuring-yinhai-wang/)\] -->
+<!-- * <span style="color:darkred"> New! </span> May. 2020. A [Traffic Performance Score Website](http://tps.uwstarlab.org/) for Measuring the traffic performance in the Greater Seattle area is developed by a team leading by me and released. \[[Website](http://tps.uwstarlab.org/)\]\[News: [UW CEE](https://www.ce.washington.edu/news/article/2020-05-13/measuring-traffic-performance-during-covid-19), [Urban@UW](https://depts.washington.edu/urbanuw/news/measuring-traffic-performance-during-covid-19/)\] -->
+<!-- * <span style="color:darkred"> New! </span> May. 2020. Our paper "Graph Markov Network for Traffic Forecasting with Missing Data" is accepted by *Transportation Research Part C: Emerging Technologies* [[arXiv](https://arxiv.org/abs/1912.05457)\] \[[doi](https://doi.org/10.1016/j.trc.2020.102671)\] -->
+
+<!-- * <span style="color:darkred"> New! </span> May. 2020. Our paper "Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values" is accepted by *Transportation Research Part C: Emerging Technologies* \[[doi](https://doi.org/10.1016/j.trc.2020.102674)\] -->
+
+<!-- * <span style="color:darkred"> New! </span> Mar. 2020. Our paper "Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction" is accepted by *Transportation Research Part C: Emerging Technologies* \[[doi](https://doi.org/10.1016/j.trc.2020.102620)\] -->
+<!-- * <span style="color:darkred"> New! </span> Mar. 2020. Our paper "Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models " is accepted by *IEEE Transaction on Intelligent Transportation Systems* \[[doi](https://ieeexplore.ieee.org/document/9069477)\] -->
+<!-- * <span style="color:darkred"> New! </span> Feb. 2020. Our paper "An Advanced Framework for Microscopic and Lane-level Macroscopic Traffic Parameters Estimation from UAV Video" is accepted by *IET Intelligent Transport Systems* \[[doi](https://doi.org/10.1049/iet-its.2019.0463)\] -->
+<!-- * <span style="color:darkred"> New! </span> Feb. 2020. Our paper "Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact" is accepted by *Transportation Research Record* \[[doi](https://doi.org/10.1177/0361198120911052)\] -->
+<!-- * <span style="color:darkred"> New! </span> Jan. 2020. I'm honoured to receive the <span style="color:darkred;">Student Paper Award</span> presented by the [Transportation Statistics Interest Group of American Statistical Association (ASA)](https://community.amstat.org/tsig/home). \[[Paper](https://arxiv.org/abs/1912.05457)\]  -->
 <!-- * <span style="color:darkred"> New! </span> Oct. 2019. Two first-author and two co-authored papers are accepted for presentation at TRB 2020. -->
 <!-- * <span style="color:darkred"> New! </span> Oct. 2019. I win the Second Prize in the 2019 PacTrans Annual Conference best poster contest. -->
 <!-- * <span style="color:darkred"> New! </span> Oct. 2019. I give a talk at INFORMS 2019 entitled: "Learning Traffic as a Graph: Graph based Neural networks for Network-scale Traffic Prediction" \[[link](https://www.abstractsonline.com/notify/notifyintro.asp?MKey={DA9FD773-1961-4264-8491-297D9CB12146}&NKey={E86BA192-F3B7-46AB-AB2E-573BCB2C8F78})\] -->
@@ -94,46 +98,48 @@ For urban systems to be smart and intelligent, they must be able to understand e
 		</tr>
     </thead>
 	<tbody>
-    <tr id="cui2020traffic" class="entry">
-          <td>
-        <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
-        <div class="polaroid">
-          <img src="../images/research/cui2020traffic.png" width="600" class="research_img">
-          <div class="container">
-          Traffic Performance Score
-          </div>
-        </div>
-      </td>
-          <td><strong>Z. Cui</strong>, et al.*</td>
-      <td>
-        Traffic Performance Score for Measuring the Impact of COVID-19 on Urban Mobility<br>
-                <p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('cui2020traffic','abstract')">Abstract</a>]
-                  [<a href="javascript:toggleInfo('cui2020traffic','bibtex')">BibTeX</a>] 
-                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
-                  [<a href="https://arxiv.org/pdf/2007.00648">arXiv</a>]
-                  [<a href="http://tps.uwstarlab.org/">Website</a>]
-                  <!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
-                  <!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
-                  <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
-              </p>
-        </td>
-      <td>2021</td>
-          <td>TRB Annual Meeting 2021</td>
-        </tr>
-        <tr id="abs_cui2020traffic" class="abstract noshow">
-          <td colspan="5"><div align="justify"> <b>Abstract</b>: Measuring traffic performance is critical for public agencies who manage traffic and individuals who plan trips, especially when special events happen. The COVID-19 pandemic has significantly influenced almost every aspect of daily life, including urban traffic patterns. Thus, it is important to measure the impact of COVID-19 on transportation to further guide agencies and residents to properly respond to changes in traffic patterns. However, most existing traffic performance metrics incorporate only a single traffic parameter and measure only the performance of individual corridors. To overcome these challenges, in this study, a Traffic Performance Score (TPS) is proposed that incorporates multiple parameters for measuring network-wide traffic performance. An interactive web-based TPS platform that provides real-time and historical spatial-temporal traffic performance analysis is developed by the STAR Lab at the University of Washington. Based on data from this platform, this study analyzes the impact of COVID-19 on different road segments and the traffic network as a whole. Considering this pandemic has greatly reshaped social and economic operations, this study also evaluates how COVID-19 is changing the urban mobility from both travel demand and driving behavior perspectives.</div></td>
-        </tr>
-        <tr id="bib_cui2020traffic" class="bibtex noshow">
-          <td colspan="5"><b>BibTeX</b>:
-                <pre>@article{cui2020traffic,
-  title={Traffic Performance Score for Measuring the Impact of COVID-19 on Urban Mobility},
-  author={Cui, Zhiyong and Zhu, Meixin and Wang, Shuo and Wang, Pengfei and Zhou, Yang and Cao, Qianxia and Kopca, Cole and Wang, Yinhai},
-  journal={arXiv preprint arXiv:2007.00648},
-  year={2020}
-}</pre>
-      </td>
-    </tr>
+		<tr id="cui2020traffic" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/cui2020traffic.png" width="600" class="research_img">
+				<div class="container">
+				Traffic Performance Score
+				</div>
+				</div>
+			</td>
+			<td><strong>Z. Cui</strong>, et al.*</td>
+			<td>
+				Traffic Performance Score for Measuring the Impact of COVID-19 on Urban Mobility<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('cui2020traffic','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('cui2020traffic','bibtex')">BibTeX</a>] 
+						<!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
+						[<a href="https://arxiv.org/pdf/2007.00648">arXiv</a>]
+						[<a href="http://tps.uwstarlab.org/">Website</a>]
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2021</td>
+			<td>TRB Annual Meeting 2021</td>
+		</tr>
+		<tr id="abs_cui2020traffic" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Measuring traffic performance is critical for public agencies who manage traffic and individuals who plan trips, especially when special events happen. The COVID-19 pandemic has significantly influenced almost every aspect of daily life, including urban traffic patterns. Thus, it is important to measure the impact of COVID-19 on transportation to further guide agencies and residents to properly respond to changes in traffic patterns. However, most existing traffic performance metrics incorporate only a single traffic parameter and measure only the performance of individual corridors. To overcome these challenges, in this study, a Traffic Performance Score (TPS) is proposed that incorporates multiple parameters for measuring network-wide traffic performance. An interactive web-based TPS platform that provides real-time and historical spatial-temporal traffic performance analysis is developed by the STAR Lab at the University of Washington. Based on data from this platform, this study analyzes the impact of COVID-19 on different road segments and the traffic network as a whole. Considering this pandemic has greatly reshaped social and economic operations, this study also evaluates how COVID-19 is changing the urban mobility from both travel demand and driving behavior perspectives.</div></td>
+		</tr>
+		<tr id="bib_cui2020traffic" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{cui2020traffic,
+						title={Traffic Performance Score for Measuring the Impact of COVID-19 on Urban Mobility},
+						author={Cui, Zhiyong and Zhu, Meixin and Wang, Shuo and Wang, Pengfei and Zhou, Yang and Cao, Qianxia and Kopca, Cole and Wang, Yinhai},
+						journal={arXiv preprint arXiv:2007.00648},
+						year={2020}
+						}
+					</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
 		<tr id="cui2019graph" class="entry">
       		<td>
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
