@@ -9,11 +9,22 @@ redirect_from:
 - "/about.html"
 ---
 
-I am a **Professor** in the **School of Transportation Science and Engineering** at **Beihang University**. Before joining Beihang University, I was a UW Data Science Postdoctoral Fellow at the University of Washington. I received a Ph.D. degree in Civil Engineering (Transportation Engineering) from the University of Washington, a Master degree in Software Engineering from Peking University, and a Bachelor degree in Software Engineering from Beihang University. I was a visiting master student in the College of Electrical Engineering and Computer Science at National Taiwan University.
+I am a **Professor** in the **State Key Lab of Intelligent Transportation Systems (ITS)** and the **School of Transportation Science and Engineering** at **Beihang University**. 
 
-For urban systems to be smart and intelligent, they must be able to understand evolving patterns, reason about special phenomena, and optimize the operation in large-scale regions --  how should we leverage, devise, and interpret models that learn urban patterns from real-world data and adapt our current urban systems to the future? Towards this question and others, I work on building data-driven models using **machine learning** and **deep learning** technologies to reflect the real world. My work touches on a range of transportation problems including **urban computing, traffic forecasting, human mobility modeling, autonomous driving, traffic control,** and **traffic simulation**. I'm <span style="color:darkred">open to new topics and collaborations</span>, and feel free to reach out to me if you are interested.
+Before joining Beihang University, I was a UW Data Science Postdoctoral Fellow at the University of Washington. I received a Ph.D. degree in Civil Engineering (Transportation Engineering) from the University of Washington, a Master degree in Software Engineering from Peking University, and a Bachelor degree in Software Engineering from Beihang University. I was a visiting master student in the College of Electrical Engineering and Computer Science at National Taiwan University.
 
+For urban systems to be smart and intelligent, they must be able to understand evolving patterns, reason about special phenomena, and optimize the operation in large-scale regions --  how should we leverage, devise, and interpret models that learn urban patterns from real-world data and adapt our current urban systems to the future? Towards this question and others, I work on building data-driven models using **machine learning** and **deep learning** technologies to reflect the real world. My work touches on a range of transportation problems including **LLM, autonomous driving, urban computing, traffic forecasting, human mobility modeling,** and **traffic control** . I'm <span style="color:darkred">open to new topics and collaborations</span>, and feel free to reach out to me if you are interested.
 
+<!-- ## Research Focus 
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th width="100%">&nbsp;</th>
+    </tr>
+  </thead>
+</table>
+
+Artificial Intelligence, Large Models, Autonomous Driving, Urban Computing, Traffic Prediction and Control -->
 
 ## News 
 <table style="width:100%">
@@ -23,12 +34,13 @@ For urban systems to be smart and intelligent, they must be able to understand e
     </tr>
   </thead>
 </table>
-* <span style="color:darkred"> New! </span> Jan. 2024. I'm honoured to receive the <span style="color:darkred">KIKUCHI-KARLAFTIS 2023 Best Paper Award from TRB AI Committee</span>. 
-* <span style="color:darkred"> New! </span> Mar. 2023. I start to work as a [Professor](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm) in the School of Transportation Science and Engineering at Beihang University. 
+* <span style="color:darkred"> New! </span> Jun. 2024. Our Paper [[AccidentGPT](https://arxiv.org/abs/2312.13156)\] received the <span style="color:darkred">Best Paper Award</span> from the [IEEE T-IV & IV 24 Joint Workshop on Foundation Intelligence for Intelligent Vehicles](https://ieee-iv.org/2024/t-iv-iv-24-joint-workshop/).
+* <span style="color:darkred"> New! </span> Dec. 2023. Our Paper [[ATT_FLAV](https://www.sciencedirect.com/science/article/pii/S0957417423007972)\] received the <span style="color:darkred">KIKUCHI-KARLAFTIS 2023 Best Paper Award from TRB AI Committee</span>. 
+<!-- * <span style="color:darkred"> New! </span> Mar. 2023. I start to work as a Professor in the [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm) at Beihang University.  -->
 * <span style="color:darkred"> New! </span> Dec. 2022. I'm honoured to receive the <span style="color:darkred">HKSTS Outstanding Dissertation Award cum Gordon Newell Memorial Prize</span>. \[[link](http://www.hksts.org/awards_frame.htm)\]
-<!-- * <span style="color:darkred"> New! </span> Mar. 2022. I join the School of Transportation Science and Engineering at Beihang University as an [Associate Professor](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm).  -->
+<!-- * <span style="color:darkred"> New! </span> Mar. 2022. I start to work as an Associate Professor in the School of Transportation Science and Engineering at Beihang University.  -->
 <!-- * <span style="color:darkred"> New! </span> Jan. 2022. I'm honoured to receive Honorable Mention in the <span style="color:darkred"> TRB AED50 Best Dissertation Competition</span>. \[[link](https://sites.google.com/view/trbaed50/announcements/awards)\] -->
-<!-- * <span style="color:darkred"> New! </span> Sept. 2021. I'm honoured to receive the <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize).  \[[link](https://ieee-itss.org/awards/best-dissertation/)\] -->
+* <span style="color:darkred"> New! </span> Sept. 2021. I'm honoured to receive the <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize).  \[[link](https://ieee-itss.org/awards/best-dissertation/)\]
 <!-- * <span style="color:darkred"> New! </span> Apr. 2021. I'm honoured to receive the title of <span style="color:darkred">UW Data Science Postdoctoral Fellow</span> from the eScience Institue, UW.  -->
 <!-- * <span style="color:darkred"> New! </span> Mar. 2021. Gradudation! I defend my PhD final exam and graduate! -->
 <!-- * <span style="color:darkred"> New! </span> Oct. 2020. Our paper receives the <span style="color:darkred">Best Paper Award</span> presented by  IEEE International Smart Cities Conference 2020.  -->
@@ -45,7 +57,7 @@ For urban systems to be smart and intelligent, they must be able to understand e
 <!-- * <span style="color:darkred"> New! </span> Mar. 2020. Our paper "Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models " is accepted by *IEEE Transaction on Intelligent Transportation Systems* \[[doi](https://ieeexplore.ieee.org/document/9069477)\] -->
 <!-- * <span style="color:darkred"> New! </span> Feb. 2020. Our paper "An Advanced Framework for Microscopic and Lane-level Macroscopic Traffic Parameters Estimation from UAV Video" is accepted by *IET Intelligent Transport Systems* \[[doi](https://doi.org/10.1049/iet-its.2019.0463)\] -->
 <!-- * <span style="color:darkred"> New! </span> Feb. 2020. Our paper "Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact" is accepted by *Transportation Research Record* \[[doi](https://doi.org/10.1177/0361198120911052)\] -->
-<!-- * <span style="color:darkred"> New! </span> Jan. 2020. I'm honoured to receive the <span style="color:darkred;">Student Paper Award</span> presented by the [Transportation Statistics Interest Group of American Statistical Association (ASA)](https://community.amstat.org/tsig/home). \[[Paper](https://arxiv.org/abs/1912.05457)\]  -->
+* <span style="color:darkred"> New! </span> Jan. 2020. Our paper \[[Graph Markov Network](https://arxiv.org/abs/1912.05457)\] received <span style="color:darkred;">Student Paper Award</span> from [ASA TSIG](https://community.amstat.org/tsig/home). 
 <!-- * <span style="color:darkred"> New! </span> Oct. 2019. Two first-author and two co-authored papers are accepted for presentation at TRB 2020. -->
 <!-- * <span style="color:darkred"> New! </span> Oct. 2019. I win the Second Prize in the 2019 PacTrans Annual Conference best poster contest. -->
 <!-- * <span style="color:darkred"> New! </span> Oct. 2019. I give a talk at INFORMS 2019 entitled: "Learning Traffic as a Graph: Graph based Neural networks for Network-scale Traffic Prediction" \[[link](https://www.abstractsonline.com/notify/notifyintro.asp?MKey={DA9FD773-1961-4264-8491-297D9CB12146}&NKey={E86BA192-F3B7-46AB-AB2E-573BCB2C8F78})\] -->
@@ -98,6 +110,409 @@ For urban systems to be smart and intelligent, they must be able to understand e
 		</tr>
     </thead>
 	<tbody>
+		<tr id="li2024steering" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/li2024steering.png" width="600" class="research_img">
+				<div class="container">
+				ITS with Foundation Models
+				</div>
+				</div>
+			</td>
+			<td>Z Li#, <strong>Z Cui</strong>#, H Liao, J Ash, G Zhang, C Xu, Y Wang* </td>
+			<td>
+				Steering the Future: Redefining Intelligent Transportation Systems with Foundation Models<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('li2024steering','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('li2024steering','bibtex')">BibTeX</a>] 
+						[<a href="https://ieeexplore.ieee.org/abstract/document/10595852">PDF</a>]
+						<!-- [<a href="https://arxiv.org/pdf/2405.04909">arXiv</a>] -->
+						<!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2024</td>
+			<td>CHAIN</td>
+		</tr>
+		<tr id="abs_li2024steering" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: At the intersection of artificial intelligence and urban development, this paper unveils the pivotal role of Foundation Models (FMs) in revolutionizing Intelligent Transportation Systems (ITS). Against the backdrop of escalating urbanization and environmental concerns, we rigorously assess how FMs—spanning large language models, vision-language models, large multimodal models, etc.—can redefine urban mobility paradigms. Our discussion extends to the potential of modular, scalable models and strategic public-private partnerships in facilitating seamless integration. Through a comprehensive literature review and theoretical framework, this paper underscores the significant role of FMs in steering the future of transportation towards unprecedented levels of intelligence and responsiveness. The insights offered aim to guide policymakers, engineers, and researchers in the ethical and effective adoption of FMs, paving the way for a new era in transportation systems.</div></td>
+		</tr>
+		<tr id="bib_li2024steering" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{li2024steering,
+  title={Steering the Future: Redefining Intelligent Transportation Systems with Foundation Models},
+  author={Li, Zhenning and Cui, Zhiyong and Liao, Haicheng and Ash, John and Zhang, Guohui and Xu, Chengzhong and Wang, Yinhai},
+  journal={CHAIN},
+  volume={1},
+  number={1},
+  pages={46--53},
+  year={2024},
+  publisher={Youke Publishing}
+}</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="lan2024traj" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/lan2024traj.png" width="600" class="research_img">
+				<div class="container">
+				Traj-LLM
+				</div>
+				</div>
+			</td>
+			<td>Z Lan, L Liu, B Fan, Y Lv, Y Ren*, <strong>Z Cui</strong>*</td>
+			<td>
+				Traj-LLM: A New Exploration for Empowering Trajectory Prediction With Pre-Trained Large Language Models<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('lan2024traj','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('lan2024traj','bibtex')">BibTeX</a>] 
+						[<a href="https://ieeexplore.ieee.org/abstract/document/10574364">PDF</a>]
+						[<a href="https://arxiv.org/pdf/2405.04909">arXiv</a>]
+						<!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2024</td>
+			<td>IEEE Transactions on Intelligent Vehicles</td>
+		</tr>
+		<tr id="abs_lan2024traj" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Predicting the future trajectories of dynamic traffic actors is a cornerstone task in autonomous driving. Though existing notable efforts have resulted in impressive performance improvements, a gap persists in scene cognitive and understanding of complex traffic semantics. This paper proposes Traj-LLM, the first to investigate the potential of using pre-trained Large Language Models (LLMs) without explicit prompt engineering to generate future motions from vehicular past trajectories and traffic scene semantics. Traj-LLM starts with sparse context joint encoding to dissect the agent and scene features into a form that LLMs understand. On this basis, we creatively explore LLMs' strong understanding capability to capture a spectrum of high-level scene knowledge and interactive information. To emulate the human-like lane focus cognitive function and enhance Traj-LLM's scene comprehension, we introduce lane-aware probabilistic learning powered by the Mamba module. Finally, a multi-modal Laplace decoder is designed to achieve scene-compliant predictions. Extensive experiments manifest that Traj-LLM, fueled by prior knowledge and understanding prowess of LLMs, together with lane-aware probability learning, transcends the state-of-the-art methods across most evaluation metrics. Moreover, the few-shot analysis serves to substantiate Traj-LLM's performance, as even with merely 50% of the dataset, it surpasses the majority of benchmarks relying on complete data utilization. This study explores endowing the trajectory prediction task with advanced capabilities inherent in LLMs, furnishing a more universal and adaptable solution for forecasting agent movements in a new way.</div></td>
+		</tr>
+		<tr id="bib_lan2024traj" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{lan2024traj,
+title={Traj-llm: A new exploration for empowering trajectory prediction with pre-trained large language models},
+author={Lan, Zhengxing and Liu, Lingshan and Fan, Bo and Lv, Yisheng and Ren, Yilong and Cui, Zhiyong},
+journal={IEEE Transactions on Intelligent Vehicles},
+year={2024},
+publisher={IEEE}
+}
+					</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="wang2023accidentgpt" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/wang2023accidentgpt.png" width="600" class="research_img">
+				<div class="container">
+				AccidentGPT
+				</div>
+				</div>
+			</td>
+			<td>L Wang, H Jiang, P Cai, D Fu, T Wang, <strong>Z Cui</strong>*, Y Ren*, et al. </td>
+			<td>
+				AccidentGPT: Accident analysis and prevention from V2X environmental perception with multi-modal large model<br>
+				(<span style="color:darkred;">Best Paper Award</span>) 
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('wang2023accidentgpt','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('wang2023accidentgpt','bibtex')">BibTeX</a>] 
+						[<a href="https://accidentgpt.github.io/">Webpage</a>]
+						[<a href="https://arxiv.org/abs/2312.13156">arXiv</a>]
+						[<a href="https://github.com/LeningWang/AccidentGPT">GitHub</a>]
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2024</td>
+			<td>IEEE T-IV & IV 24 Joint Workshop on Foundation Intelligence for Intelligent Vehicles</td>
+		</tr>
+		<tr id="abs_wang2023accidentgpt" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Traffic accidents, being a significant contributor to both human casualties and property damage, have long been a focal point of research for many scholars in the field of traffic safety. However, previous studies, whether focusing on static environmental assessments or dynamic driving analyses, as well as pre-accident predictions or post-accident rule analyses, have typically been conducted in isolation. There has been a lack of an effective framework for developing a comprehensive understanding and application of traffic safety. To address this gap, this paper introduces AccidentGPT, a comprehensive accident analysis and prevention multi-modal large model. AccidentGPT establishes a multi-modal information interaction framework grounded in multi-sensor perception, thereby enabling a holistic approach to accident analysis and prevention in the field of traffic safety. Specifically, our capabilities can be categorized as follows: for autonomous driving vehicles, we provide comprehensive environmental perception and understanding to control the vehicle and avoid collisions. For human-driven vehicles, we offer proactive long-range safety warnings and blind-spot alerts while also providing safety driving recommendations and behavioral norms through human-machine dialogue and interaction. Additionally, for traffic police and management agencies, our framework supports intelligent and real-time analysis of traffic safety, encompassing pedestrian, vehicles, roads, and the environment through collaborative perception from multiple vehicles and road testing devices. The system is also capable of providing a thorough analysis of accident causes and liability after vehicle collisions. Our framework stands as the first large model to integrate comprehensive scene understanding into traffic safety studies. Project page: https://accidentgpt.github.io/</div></td>
+		</tr>
+		<tr id="bib_wang2023accidentgpt" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{wang2023accidentgpt,
+  title={AccidentGPT: Accident analysis and prevention from V2X environmental perception with multi-modal large model},
+  author={Wang, Lening and Jiang, Han and Cai, Pinlong and Fu, Daocheng and Wang, Tianqi and Cui, Zhiyong and Ren, Yilong and Yu, Haiyang and Wang, Xuesong and Wang, Yinhai},
+  journal={arXiv preprint arXiv:2312.13156},
+  year={2023}
+}</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="cai2024adversarial" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/cai2024adversarial.png" width="600" class="research_img">
+				<div class="container">
+				Adversarial Stress Test for AV
+				</div>
+				</div>
+			</td>
+			<td>X Cai, X Bai, <strong>Z Cui</strong>*, P Hang, H Yu, Y Ren* </td>
+			<td>
+				Adversarial Stress Test for Autonomous Vehicle Via Series Reinforcement Learning Tasks With Reward Shaping<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('cai2024adversarial','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('cai2024adversarial','bibtex')">BibTeX</a>] 
+						[<a href="https://ieeexplore.ieee.org/abstract/document/10571558">PDF</a>]
+						<!-- [<a href="https://caixxuan.github.io/Text2Scenario.GitHub.io/">Webpage</a>] -->
+						[<a href="https://github.com/caixxuan/AST-SRL">GitHub</a>]
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2024</td>
+			<td>IEEE Transactions on Intelligent Vehicles</td>
+		</tr>
+		<tr id="abs_cai2024adversarial" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Testing is a pivotal phase for uncovering potential vulnerabilities in autonomous vehicles (AVs) to develop a secure autonomy system. However, existing methods often lack consideration for efficiently exploring multiple vulnerability-revealing cases, particularly under adversarial game scenarios. We introduce an evolving series reinforcement learning (RL) framework for adversarial policy training, integrating Responsibility Sensitive Safety (RSS) and Dynamic Time Warping (DTW) theories to shape the reward function to steer the evolving direction of the subsequent series agents for exploring vulnerability-revealing attack scenarios uncharted in the refined buffered repository. Our method undertakes adversarial stress tests for both black-box and white-box AV systems under test in driving tasks that engage in games with traffic vehicles and pedestrians. The results indicate that our approach expedites the exploration of additional scenarios blamed for the AV, outperforming the baselines in the vulnerability-revealing accident and scenario diversity. Furthermore, the causality of the collisions is qualitatively analyzed to provide insights for AV system vulnerability repair. Code is available at https://github.com/caixxuan/AST-SRL.</div></td>
+		</tr>
+		<tr id="bib_cai2024adversarial" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{cai2024adversarial,
+  title={Adversarial Stress Test for Autonomous Vehicle Via Series Reinforcement Learning Tasks With Reward Shaping},
+  author={Cai, Xuan and Bai, Xuesong and Cui, Zhiyong and Hang, Peng and Yu, Haiyang and Ren, Yilong},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2024},
+  publisher={IEEE}
+}
+					</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="ren2024uif" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/ren2024uif.png" width="600" class="research_img">
+				<div class="container">
+				UIF-BEV
+				</div>
+				</div>
+			</td>
+			<td>Y Ren, L Wang, M Li, H Jiang, C Lin, H Yu*, <strong>Z Cui</strong>* </td>
+			<td>UIF-BEV: An Underlying Information Fusion Framework for Bird's-Eye-View Semantic Segmentation<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('ren2024uif','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('ren2024uif','bibtex')">BibTeX</a>] 
+						[<a href="https://ieeexplore.ieee.org/abstract/document/10528892">PDF</a>]
+						<!-- [<a href="https://caixxuan.github.io/Text2Scenario.GitHub.io/">Webpage</a>] -->
+						[<a href="https://github.com/LeningWang/UIF-BEV">GitHub</a>]
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2024</td>
+			<td>IEEE Transactions on Intelligent Vehicles</td>
+		</tr>
+		<tr id="abs_ren2024uif" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Semantic segmentation based on Bird's-eye-view (BEV) is crucial for autonomous driving. However, current methods for voxel-uplifting-based depth estimation often result in flattened ground, and transformer-based methods lack model interpretability, resulting in information loss and false transformations during image and multi-camera fusion. To tackle this issue, we propose UIF-BEV, an end-to-end framework that fuses underlying information for BEV semantic segmentation. In UIF-BEV, we construct a fusion encoder to combine the camera's underlying information and vehicle motion features across continuous frames, enabling multi-view conversion and image fusion. Additionally, we propose directional attention and tracking attention modules to enhance recognition accuracy and perception prediction for moving vehicles with varying speeds, taking into account their unsynchronized perspectives and timing. To generate segmentation results, we design a bi-directional overlapping attention decoding block that fuses multi-features. Experimental results using the nuScenes dataset demonstrate the effectiveness of UIF-BEV. It significantly improves the stitching effect of image edges and cross-views in semantic segmentation, while also reducing deformation errors caused by image transformations. Furthermore, UIF-BEV outperforms all benchmarks. Ablation experiments confirm the efficacy of each component in the framework. UIF-BEV presents a promising solution for real-time BEV map reconstruction and holds potential for various applications in the field of computer vision and autonomous driving. Our code can be publicly available at https://github.com/LeningWang/UIF-BEV.</div></td>
+		</tr>
+		<tr id="bib_ren2024uif" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{ren2024uif,
+  title={UIF-BEV: An Underlying Information Fusion Framework for Bird's-Eye-View Semantic Segmentation},
+  author={Ren, Yilong and Wang, Lening and Li, Minda and Jiang, Han and Lin, Chunmian and Yu, Haiyang and Cui, Zhiyong},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2024},
+  publisher={IEEE}
+}
+					</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="li2024inferring" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/li2024inferring.png" width="600" class="research_img">
+				<div class="container">
+				DRL for treatment effects  
+				</div>
+				</div>
+			</td>
+			<td>S Li, Z Pu *, <strong>Z Cui</strong>*, S Lee, X Guo, D Ngoduy </td>
+			<td>Inferring heterogeneous treatment effects of crashes on highway traffic: A doubly robust causal machine learning approach<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('li2024inferring','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('li2024inferring','bibtex')">BibTeX</a>] 
+						[<a href="https://www.sciencedirect.com/science/article/pii/S0968090X24000585">PDF</a>]
+						[<a href="https://arxiv.org/pdf/2401.00781">arXiv</a>]
+						<!-- [<a href="https://github.com/LeningWang/UIF-BEV">GitHub</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2024</td>
+			<td>Transportation research part C: emerging technologies</td>
+		</tr>
+		<tr id="abs_li2024inferring" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Accurate estimating causal effects of crashes on highway traffic is crucial for mitigating the negative impacts of crashes. Previous studies have built up a series of methods via traditional causal inference theory and machine learning methods to estimate the impacts of crashes. Since the structures and variable dimensions of traditional causal inference models are pre-defined, they can not accommodate the characteristics of individual crashes. They only can estimate the average causal effects for the crashes in certain categories, e.g., crash types, crash severity, and occurring locations. For machine learning-based algorithms, they cannot be used for causal reasoning due to their reliance on correlation rather than causation. However, considering the impacts of crashes on traffic status vary across influential factors, such as time periods and locations, heterogeneous causal effects are essential for a better understanding of the effects on traffic status and crash intervention strategy development. To address the aforementioned issues, this study proposes a novel doubly robust causal machine learning framework to infer heterogeneous treatment effects of crashes on highway traffic status. Doubly Robust Learning (DRL), integrating machine learning techniques to perform predictive tasks, is applied into the framework due to its stronger robustness. Considerning treatment predictors and colliders may bring bias in estimation results, Conditional Shapley Value Index (CSVI) is proposed for selecting confounders from numerous factors. A 3-year crah dataset collected by 3594 real highway crashes in Washington is utilized for demonstrating the designed experiments, including construting confidence intervals, estimated errors evaluation, and sensitivity analysis of variable selection for various thresholds of CSVI. According to the results, the distinctive propagation and dissipation processes of congestion caused by various types of crashes can be achieved. The results also validate the effectiveness of variable selection, and the superiority in estimation accuracy compared to the selected baseline models. Future study includes considering spatial–temporal causal relationships and predicting counterfactual real-time traffic conditions.</div></td>
+		</tr>
+		<tr id="bib_li2024inferring" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{li2024inferring,
+  title={Inferring heterogeneous treatment effects of crashes on highway traffic: A doubly robust causal machine learning approach},
+  author={Li, Shuang and Pu, Ziyuan and Cui, Zhiyong and Lee, Seunghyeon and Guo, Xiucheng and Ngoduy, Dong},
+  journal={Transportation research part C: emerging technologies},
+  volume={160},
+  pages={104537},
+  year={2024},
+  publisher={Elsevier}
+}</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="cui2024traffic" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/cui2024traffic.png" width="600" class="research_img">
+				<div class="container">
+				DRL for treatment effects  
+				</div>
+				</div>
+			</td>
+			<td><strong>Z Cui</strong>, MJ Tsai, M Zhu, H Yang, C Liu, S Yin, Y Wang </td>
+			<td>Traffic Performance Score: Measuring Urban Mobility and Online Predicting of Near-Term Traffic, like Weather Forecasting<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('cui2024traffic','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('cui2024traffic','bibtex')">BibTeX</a>] 
+						[<a href="https://journals.sagepub.com/doi/abs/10.1177/03611981231222232">PDF</a>]
+						[<a href="https://arxiv.org/pdf/2401.00781">arXiv</a>]
+						<!-- [<a href="https://github.com/LeningWang/UIF-BEV">GitHub</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2024</td>
+			<td>Transportation Research Record</td>
+		</tr>
+		<tr id="abs_cui2024traffic" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Measuring traffic performance is critical for public agencies which manage traffic and individuals who. This is the topic which the authors attempt to emphasize. One potential challenge for traffic prediction tasks is that short-term-incident-induced traffic pattern changes cannot be timely detected and the deployed model cannot adapt to the new traffic pattern. As for encountering long-term incidents, such as during COVID-19, traffic patterns are gradually changing, and the prediction model also needs to be periodically updated to avoid the so-called out-of-distribution problem. Therefore, the online training and predicting mechanisms can facilitate model updates, deployment of traffic prediction applications, and the planning of trips, especially when special events happen, such as the long-lasting COVID-19 pandemic. However, most existing traffic performance metrics narrowly focus on one aspect of the impacts but not comprehensive changes to the network. Further, during the pandemic, urban traffic patterns and travelers’ trip planning were dramatically affected and, thus, network-wide online traffic prediction became an urgent but more complicated task. To overcome such challenges, this study proposes a traffic performance score (TPS) incorporating multiple parameters for measuring both urban and freeway network-wide traffic performance. The TPS is compared with other metrics to show its superiority. To solve the challenging network-wide online traffic prediction task, this study also proposes an online training and updating strategy to predict network-wide traffic performance. Experimental results indicate that the proposed model with the online learning strategy outperforms existing methods in prediction accuracy and learning efficiency. In addition, the TPS measurement and its related online prediction functions are implemented on a publicly accessible platform and applied in real practice, which is another contribution of this work.</div></td>
+		</tr>
+		<tr id="bib_cui2024traffic" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{cui2024traffic,
+  title={Traffic Performance Score: Measuring Urban Mobility and Online Predicting of Near-Term Traffic, like Weather Forecasting},
+  author={Cui, Zhiyong and Tsai, Meng-Ju and Zhu, Meixin and Yang, Hao and Liu, Chenxi and Yin, Shuyi and Wang, Yinhai},
+  journal={Transportation Research Record},
+  pages={03611981231222232},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="wang2023bandit" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/wang2023bandit.png" width="600" class="research_img">
+				<div class="container">
+				ATT_FLAV  
+				</div>
+				</div>
+			</td>
+			<td>S Wang, Q Li*, <strong>Z Cui</strong>*, J Hou, C Huang</td>
+			<td>Bandit-based data poisoning attack against federated learning for autonomous driving models<br>
+			(<span style="color:darkred;">KIKUCHI-KARLAFTIS 2023 Best Paper Award</span>) 
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('wang2023bandit','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('wang2023bandit','bibtex')">BibTeX</a>] 
+						[<a href="https://www.sciencedirect.com/science/article/pii/S0957417423007972">PDF</a>]
+						<!-- [<a href="https://arxiv.org/pdf/2401.00781">arXiv</a>] -->
+						<!-- [<a href="https://github.com/LeningWang/UIF-BEV">GitHub</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2023</td>
+			<td>Expert Systems with Applications</td>
+		</tr>
+		<tr id="abs_wang2023bandit" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: In Internet of Things (IoT) applications, federated learning is commonly used for distributedly training models in a privacy-preserving manner. Recently, federated learning is broadly applied to autonomous driving for training intelligent decision models without disseminating local data remotely. Although federated learning provides a safer training manner for protecting data privacy in autonomous driving, the model training process is still vulnerable to poisoning attacks from vehicle client ends. It is beneficial to study poisoning attacks for enhancing the robustness of the training process to generate reliable decisions for safe driving. Until now, a few researches on poisoning attacks against classification models under federated learning scenarios have been proposed. However, those poisoning attacks against classification tasks cannot be directly applied to regression tasks in a federated learning framework, especially autonomous driving tasks such as steering angle control and brake control. The biggest challenge is that the output of non-linear regression models in federated learning is a dynamic sequential value decided by an online updated non-linear function. Thus, minor attacks can affect the overall non-linear function inference outputs leading to a failed stealthy attack. Based on existing challenges, this paper proposes an ATTack against Federated Learning based Autonomous Vehicle framework(ATT_FLAV) to evaluate and enhance the robustness of the federated learning-based autonomous driving models and take the steering angle control task as a representative non-linear regression task to illustrate the methodology. In the proposed framework, a bandit-based AttackRegion-UCB (AR-UCB) algorithm is designed for dynamic data poisoning attacks against the non-linear regression model. This is a black-box attack strategy that chooses the target attack label region dynamically in each federated learning round based on historical attack experiences. Compared with the attack performance of baseline poisoning attacks and the robustness under defense schemas, the proposed poisoning attack strategy can achieve superior attack performance via continuous data poisoning attacks against the federated learning framework.</div></td>
+		</tr>
+		<tr id="bib_wang2023bandit" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{wang2023bandit,
+  title={Bandit-based data poisoning attack against federated learning for autonomous driving models},
+  author={Wang, Shuo and Li, Qianmu and Cui, Zhiyong and Hou, Jun and Huang, Chanying},
+  journal={Expert Systems with Applications},
+  volume={227},
+  pages={120295},
+  year={2023},
+  publisher={Elsevier}
+}</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="yin2022reinforcement" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/yin2022reinforcement.png" width="600" class="research_img">
+				<div class="container">
+				RL for Curbside Space Management 
+				</div>
+				</div>
+			</td>
+			<td>S Yin, <strong>Z Cui</strong>, Y Wang</td>
+			<td>Reinforcement Learning for Curbside Space Management with Infrastructure Autonomy and Mixed Vehicle Connectivity<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('yin2022reinforcement','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('yin2022reinforcement','bibtex')">BibTeX</a>] 
+						[<a href="https://ieeexplore.ieee.org/abstract/document/9922149">PDF</a>]
+						<!-- [<a href="https://arxiv.org/pdf/2401.00781">arXiv</a>] -->
+						<!-- [<a href="https://github.com/LeningWang/UIF-BEV">GitHub</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2022</td>
+			<td>IEEE International Conference on Intelligent Transportation Systems</td>
+		</tr>
+		<tr id="abs_yin2022reinforcement" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Urban curbside parking has been a headache for a wide range of urban stakeholders. It is difficult to solve and is rarely regarded independent from the well-studied parking management problem. However, a closer look at its properties and a comparison points out the unique features of curbside parking game that involves both the parking/cruising traffic and the roadway traffic. Two gaps in literature and prototypes that shape the future of the curbside are identified. And to bridge them, this paper proposes to innovatively solve it by infrastructure autonomy, modeling the curbs as agents. Later, this study considers heterogeneity of vehicles in two dimensions and connects them to reduce problem complexity. A model for curbside space management (CSM) is developed and solved via a reinforcement learning (RL) scheme. Partial observations and full information are fed to different components in the model respectively for robust training. Results based on simulation show the proposed model outperform two baseline control strategies and learns robustly.</div></td>
+		</tr>
+		<tr id="bib_yin2022reinforcement" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@inproceedings{yin2022reinforcement,
+  title={Reinforcement Learning for Curbside Space Management with Infrastructure Autonomy and Mixed Vehicle Connectivity},
+  author={Yin, Shuyi and Cui, Zhiyong and Wang, Yinhai},
+  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)},
+  pages={3276--3282},
+  year={2022},
+  organization={IEEE}
+}</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
 		<tr id="cui2020traffic" class="entry">
 			<td>
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
@@ -115,8 +530,8 @@ For urban systems to be smart and intelligent, they must be able to understand e
 						[<a href="javascript:toggleInfo('cui2020traffic','abstract')">Abstract</a>]
 						[<a href="javascript:toggleInfo('cui2020traffic','bibtex')">BibTeX</a>] 
 						<!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
-						[<a href="https://arxiv.org/pdf/2007.00648">arXiv</a>]
 						[<a href="http://tps.uwstarlab.org/">Website</a>]
+						[<a href="https://arxiv.org/pdf/2007.00648">arXiv</a>]
 						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
 						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
 						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
@@ -130,15 +545,17 @@ For urban systems to be smart and intelligent, they must be able to understand e
 		</tr>
 		<tr id="bib_cui2020traffic" class="bibtex noshow">
 			<td colspan="5"><b>BibTeX</b>:
-					<pre>@article{cui2020traffic,
-						title={Traffic Performance Score for Measuring the Impact of COVID-19 on Urban Mobility},
-						author={Cui, Zhiyong and Zhu, Meixin and Wang, Shuo and Wang, Pengfei and Zhou, Yang and Cao, Qianxia and Kopca, Cole and Wang, Yinhai},
-						journal={arXiv preprint arXiv:2007.00648},
-						year={2020}
-						}
-					</pre>
+				<pre>@article{cui2020traffic,
+title={Traffic Performance Score for Measuring the Impact of COVID-19 on Urban Mobility},
+author={Cui, Zhiyong and Zhu, Meixin and Wang, Shuo and Wang, Pengfei and Zhou, Yang and Cao, Qianxia and Kopca, Cole and Wang, Yinhai},
+journal={arXiv preprint arXiv:2007.00648},
+year={2020}
+}
+				</pre>
 			</td>
     	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
 		<!-- Item Finished -->
 		<tr id="cui2019graph" class="entry">
       		<td>
@@ -157,11 +574,10 @@ For urban systems to be smart and intelligent, they must be able to understand e
               	<p class="infolinks"> 
               		[<a href="javascript:toggleInfo('cui2020graph','abstract')">Abstract</a>]
               		[<a href="javascript:toggleInfo('cui2020graph','bibtex')">BibTeX</a>] 
-              		<!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
+              		[<a href="https://www.sciencedirect.com/science/article/pii/S0968090X20305866">PDF</a>]
               		[<a href="https://arxiv.org/abs/1912.05457">arXiv</a>]
-                  [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>]
-                  [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>]
-              		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+                  	[<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>]
+                  	[<a href="https://github.com/zhiyongc/GraphMarkovNetwork">GitHub</a>]
             	</p>
     		</td>
  			<td>2020</td>
@@ -183,11 +599,11 @@ For urban systems to be smart and intelligent, they must be able to understand e
 }</pre>
       </td>
     </tr>
-    <tr id="lstm_i" class="entry">
+    <tr id="cui2020stacked" class="entry">
           <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/research/lstm_i.png" width="600" class="research_img">
+          <img src="../images/research/cui2020stacked.png" width="600" class="research_img">
           <div class="container">
           LSTM-Imputation
           </div>
@@ -199,7 +615,7 @@ For urban systems to be smart and intelligent, they must be able to understand e
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('cui2020stacked','abstract')">Abstract</a>]
                   [<a href="javascript:toggleInfo('cui2020stacked','bibtex')">BibTeX</a>] 
-                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
+                  [<a href="https://www.sciencedirect.com/science/article/pii/S0968090X20305891">PDF</a>]
                   <!-- [<a href="https://arxiv.org/abs/1912.05457">arXiv</a>] -->
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
               </p>
@@ -449,7 +865,7 @@ publisher={Elsevier}
               	<p class="infolinks"> 
               		[<a href="javascript:toggleInfo('cui2019perspectives','abstract')">Abstract</a>]
               		[<a href="javascript:toggleInfo('cui2019perspectives','bibtex')">BibTeX</a>] 
-              		[<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>]
+              		[<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-its.2019.0212">PDF</a>]
               		[<a href="https://arxiv.org/abs/1508.06033">arXiv</a>]
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
             	</p>
@@ -688,10 +1104,15 @@ publisher={Elsevier}
 
 <dl>
   <dt> <strong>Instructor</strong></dt>
-  <dd> - CEE 412/CET 522: Transportation Data Management and Visualization -- Winter 2021</dd>
-  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - 44 undergrads and grads; rating: 4.1/5.0 </dd>
-  <dd> - <a href="https://zhiyongcui.com/CEE412_CET522/">CEE 412/CET 522: Transportation Data Management and Visualization</a> -- Winter 2020 [<a href="https://zhiyongcui.com/CEE412_CET522/docs/gallery/">Gallery</a>] (<span style="color:darkred;">CEE Department Chair's Award</span>)</dd>
-  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - 50 undergrads and grads; rating: 4.1/5.0 </dd>
+  <dd> - Machine Learning and Smart Transportation Applications @BUAA -- Fall 2024 </dd>
+  <dd> - Artificial Intelligence [<a href="https://zhiyongcui.com/tai">website</a>] @BUAA -- Spring 2023 - 2024 </dd>
+  <dd> - Transportation Big Data Technology @BUAA -- Spring 2022 - 2024 </dd>
+  <!-- <dd> - CEE412/CET522: Transportation Data Management and Visualization @UW--Winter 2020-2021</dd> -->
+  <!-- <dd> &nbsp;&nbsp;&nbsp;&nbsp; - 44 undergrads and grads; rating: 4.1/5.0 </dd> -->
+  <dd> - CEE412/CET522: Transportation Data Management and Visualization [<a href="https://zhiyongcui.com/CEE412_CET522/">website</a>] @UW--Winter 2020-2021</dd>
+  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - <span style="color:darkred;">CEE Department Chair's Award</span></dd>
+  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - Course project gallery [<a href="https://zhiyongcui.com/CEE412_CET522/docs/gallery/">Gallery</a>] </dd>
+  <!-- <dd> &nbsp;&nbsp;&nbsp;&nbsp; - 50 undergrads and grads; rating: 4.1/5.0 </dd> -->
   <dt> <strong>Guest Lecture</strong></dt>
   <dd> - CEE 412/CET 512: Transportation Data Management -- Winter 2019</dd>
   <dd> - Engineering Discovery Days, University of Washington -- Spring 2017, 2018, 2019</dd>
