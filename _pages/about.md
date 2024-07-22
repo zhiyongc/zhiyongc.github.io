@@ -13,7 +13,7 @@ I am a **Professor** in the **State Key Lab of Intelligent Transportation System
 
 Before joining Beihang University, I was a UW Data Science Postdoctoral Fellow at the University of Washington. I received a Ph.D. degree in Civil Engineering (Transportation Engineering) from the University of Washington, a Master degree in Software Engineering from Peking University, and a Bachelor degree in Software Engineering from Beihang University. I was a visiting master student in the College of Electrical Engineering and Computer Science at National Taiwan University.
 
-For urban systems to be smart and intelligent, they must be able to understand evolving patterns, reason about special phenomena, and optimize the operation in large-scale regions --  how should we leverage, devise, and interpret models that learn urban patterns from real-world data and adapt our current urban systems to the future? Towards this question and others, I work on building data-driven models using **machine learning** and **deep learning** technologies to reflect the real world. My work touches on a range of transportation problems including **LLM, autonomous driving, urban computing, traffic forecasting, human mobility modeling,** and **traffic control** . I'm <span style="color:darkred">open to new topics and collaborations</span>, and feel free to reach out to me if you are interested.
+For urban systems to be smart and intelligent, they must be able to understand evolving patterns, reason about special phenomena, and optimize the operation in large-scale regions --  how should we leverage, devise, and interpret models that learn urban patterns from real-world data and adapt our current urban systems to the future? Towards this question and others, I work on building data-driven models using **machine learning** and **deep learning** technologies to reflect the real world. My work touches on a range of transportation problems including **LLM/foundation models for transportation, autonomous driving, urban computing, traffic forecasting, human mobility modeling,** and **traffic control**. I'm <span style="color:darkred">open to new topics and collaborations</span>, and feel free to reach out to me if you are interested.
 
 <!-- ## Research Focus 
 <table style="width:100%">
@@ -386,7 +386,7 @@ publisher={IEEE}
 				<div class="polaroid">
 				<img src="../images/research/cui2024traffic.png" width="600" class="research_img">
 				<div class="container">
-				DRL for treatment effects  
+				Online Training for TPS  
 				</div>
 				</div>
 			</td>
