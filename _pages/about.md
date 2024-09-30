@@ -34,6 +34,7 @@ Artificial Intelligence, Large Models, Autonomous Driving, Urban Computing, Traf
     </tr>
   </thead>
 </table>
+* <span style="color:darkred"> New! </span> Sept. 2024. Dr. Zhiyong Cui was recognized as <span style="color:darkred">Stanford/Elsevier Top 2% Scientists</span> in 2024.
 * <span style="color:darkred"> New! </span> Jun. 2024. Our Paper [[AccidentGPT](https://arxiv.org/abs/2312.13156)\] received the <span style="color:darkred">Best Paper Award</span> from the [IEEE T-IV & IV 24 Joint Workshop on Foundation Intelligence for Intelligent Vehicles](https://ieee-iv.org/2024/t-iv-iv-24-joint-workshop/).
 * <span style="color:darkred"> New! </span> Dec. 2023. Our Paper [[ATT_FLAV](https://www.sciencedirect.com/science/article/pii/S0957417423007972)\] received the <span style="color:darkred">KIKUCHI-KARLAFTIS 2023 Best Paper Award from TRB AI Committee</span>. 
 <!-- * <span style="color:darkred"> New! </span> Mar. 2023. I start to work as a Professor in the [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm) at Beihang University.  -->
