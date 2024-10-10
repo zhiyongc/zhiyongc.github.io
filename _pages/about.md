@@ -9,7 +9,7 @@ redirect_from:
 - "/about.html"
 ---
 
-I am a **Professor** in the **State Key Lab of Intelligent Transportation Systems (ITS)** and the **School of Transportation Science and Engineering** at **Beihang University**. 
+I am a **Professor** in the **State Key Lab of Intelligent Transportation Systems (ITS)** in the **School of Transportation Science and Engineering** and jointly in the **School of Software Engineering** at **Beihang University**. 
 
 Before joining Beihang University, I was a UW Data Science Postdoctoral Fellow at the University of Washington. I received a Ph.D. degree in Civil Engineering (Transportation Engineering) from the University of Washington, a Master degree in Software Engineering from Peking University, and a Bachelor degree in Software Engineering from Beihang University. I was a visiting master student in the College of Electrical Engineering and Computer Science at National Taiwan University.
 
@@ -1106,11 +1106,15 @@ publisher={Elsevier}
 <dl>
   <dt> <strong>Instructor</strong></dt>
   <dd> - Machine Learning and Smart Transportation Applications @BUAA -- Fall 2024 </dd>
-  <dd> - Artificial Intelligence [<a href="https://zhiyongcui.com/tai">website</a>] @BUAA -- Spring 2023 - 2024 </dd>
-  <dd> - Transportation Big Data Technology @BUAA -- Spring 2022 - 2024 </dd>
+  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - [Course Website Coming Soon] - Fall 2024</dd>
+  <dd> - Artificial Intelligence @BUAA -- Spring 2023 - 2024 </dd>
+  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - [<a href="https://zhiyongcui.com/TAI-2024">Course Website</a>] - Fall 2024</dd>
+  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - [<a href="https://zhiyongcui.com/TAI">Course Website</a>] - Fall 2023</dd>
+  <dd> - Transportation Big Data Technology @BUAA</dd>
   <!-- <dd> - CEE412/CET522: Transportation Data Management and Visualization @UW--Winter 2020-2021</dd> -->
   <!-- <dd> &nbsp;&nbsp;&nbsp;&nbsp; - 44 undergrads and grads; rating: 4.1/5.0 </dd> -->
-  <dd> - CEE412/CET522: Transportation Data Management and Visualization [<a href="https://zhiyongcui.com/CEE412_CET522/">website</a>] @UW--Winter 2020-2021</dd>
+  <dd> - CEE412/CET522: Transportation Data Management and Visualization  @UW</dd>
+  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - [<a href="https://zhiyongcui.com/CEE412_CET522/">Course Website</a>] - Winter 2020-2021</dd>
   <dd> &nbsp;&nbsp;&nbsp;&nbsp; - <span style="color:darkred;">CEE Department Chair's Award</span></dd>
   <dd> &nbsp;&nbsp;&nbsp;&nbsp; - Course project gallery [<a href="https://zhiyongcui.com/CEE412_CET522/docs/gallery/">Gallery</a>] </dd>
   <!-- <dd> &nbsp;&nbsp;&nbsp;&nbsp; - 50 undergrads and grads; rating: 4.1/5.0 </dd> -->
