@@ -34,14 +34,19 @@ Artificial Intelligence, Large Models, Autonomous Driving, Urban Computing, Traf
     </tr>
   </thead>
 </table>
+* <span style="color:darkred"> New! </span> May. 2025. One Paper [<span style="color:blue">SAH-Drive</span>] is accepted by <span style="color:red">ICML 2025</span>. Congrats, Yuqi Fan！
+* <span style="color:darkred"> New! </span> Mar. 2025. One Paper [<a href="https://arxiv.org/abs/2409.12997">VCAT</a>] is accpeted in <span style="color:red">IEEE Intelligent Vehicles Symposium (IV) 2025</span>. Congrats, Xuan Cai！
+* <span style="color:darkred"> New! </span> Mar. 2025. One Paper [<a href="https://caixxuan.github.io/Text2Scenario.GitHub.io/">Text2Scenario</a>] is accepted by <span style="color:red">Automotive Innovation</span>. Congrats, Xuan Cai！
+* <span style="color:darkred"> New! </span> Nov. 2024. One Paper [<a href="https://jkmhhh.github.io/KoMA/">KoMA</a>] is published in <span style="color:red">IEEE TIV</span>. Congrats, Kemo Jiang！
+* <span style="color:darkred"> New! </span> Oct. 2024. One Paper [<a href="https://arxiv.org/abs/2412.13607">PreMixer</a>] will be presented in <span style="color:red">TRB 2025</span>. Congrats, Tongtong Zhang！
 * <span style="color:darkred"> New! </span> Sept. 2024. Dr. Zhiyong Cui was recognized as <span style="color:darkred">Stanford/Elsevier Top 2% Scientists</span> in 2024.
 * <span style="color:darkred"> New! </span> Jun. 2024. Our Paper [[AccidentGPT](https://arxiv.org/abs/2312.13156)\] received the <span style="color:darkred">Best Paper Award</span> from the [IEEE T-IV & IV 24 Joint Workshop on Foundation Intelligence for Intelligent Vehicles](https://ieee-iv.org/2024/t-iv-iv-24-joint-workshop/).
-* <span style="color:darkred"> New! </span> Dec. 2023. Our Paper [[ATT_FLAV](https://www.sciencedirect.com/science/article/pii/S0957417423007972)\] received the <span style="color:darkred">KIKUCHI-KARLAFTIS 2023 Best Paper Award from TRB AI Committee</span>. 
+*  Dec. 2023. Our Paper [[ATT_FLAV](https://www.sciencedirect.com/science/article/pii/S0957417423007972)\] received the <span style="color:darkred">KIKUCHI-KARLAFTIS 2023 Best Paper Award from TRB AI Committee</span>. 
 <!-- * <span style="color:darkred"> New! </span> Mar. 2023. I start to work as a Professor in the [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm) at Beihang University.  -->
-* <span style="color:darkred"> New! </span> Dec. 2022. I'm honoured to receive the <span style="color:darkred">HKSTS Outstanding Dissertation Award cum Gordon Newell Memorial Prize</span>. \[[link](http://www.hksts.org/awards_frame.htm)\]
+* Dec. 2022. I'm honoured to receive the <span style="color:darkred">HKSTS Outstanding Dissertation Award cum Gordon Newell Memorial Prize</span>. \[[link](http://www.hksts.org/awards_frame.htm)\]
 <!-- * <span style="color:darkred"> New! </span> Mar. 2022. I start to work as an Associate Professor in the School of Transportation Science and Engineering at Beihang University.  -->
 <!-- * <span style="color:darkred"> New! </span> Jan. 2022. I'm honoured to receive Honorable Mention in the <span style="color:darkred"> TRB AED50 Best Dissertation Competition</span>. \[[link](https://sites.google.com/view/trbaed50/announcements/awards)\] -->
-* <span style="color:darkred"> New! </span> Sept. 2021. I'm honoured to receive the <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize).  \[[link](https://ieee-itss.org/awards/best-dissertation/)\]
+* Sept. 2021. I'm honoured to receive the <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize).  \[[link](https://ieee-itss.org/awards/best-dissertation/)\]
 <!-- * <span style="color:darkred"> New! </span> Apr. 2021. I'm honoured to receive the title of <span style="color:darkred">UW Data Science Postdoctoral Fellow</span> from the eScience Institue, UW.  -->
 <!-- * <span style="color:darkred"> New! </span> Mar. 2021. Gradudation! I defend my PhD final exam and graduate! -->
 <!-- * <span style="color:darkred"> New! </span> Oct. 2020. Our paper receives the <span style="color:darkred">Best Paper Award</span> presented by  IEEE International Smart Cities Conference 2020.  -->
@@ -51,14 +56,12 @@ Artificial Intelligence, Large Models, Autonomous Driving, Urban Computing, Traf
 <!-- * <span style="color:darkred"> New! </span> May. 2020. Dr. Yinhai Wang and I give a presentation in [PacTrans Webinar](https://youtu.be/hw_fgkCQBmE): "Learning from Network-wide Traffic Sensor Data: Vehicle Travel and Traffic Performance Changes under the Influence of COVID-19". \[[YouTube](https://youtu.be/hw_fgkCQBmE)\]\[[Website](https://depts.washington.edu/pactrans/may-19-pactrans-webinar-featuring-yinhai-wang/)\] -->
 <!-- * <span style="color:darkred"> New! </span> May. 2020. A [Traffic Performance Score Website](http://tps.uwstarlab.org/) for Measuring the traffic performance in the Greater Seattle area is developed by a team leading by me and released. \[[Website](http://tps.uwstarlab.org/)\]\[News: [UW CEE](https://www.ce.washington.edu/news/article/2020-05-13/measuring-traffic-performance-during-covid-19), [Urban@UW](https://depts.washington.edu/urbanuw/news/measuring-traffic-performance-during-covid-19/)\] -->
 <!-- * <span style="color:darkred"> New! </span> May. 2020. Our paper "Graph Markov Network for Traffic Forecasting with Missing Data" is accepted by *Transportation Research Part C: Emerging Technologies* [[arXiv](https://arxiv.org/abs/1912.05457)\] \[[doi](https://doi.org/10.1016/j.trc.2020.102671)\] -->
-
 <!-- * <span style="color:darkred"> New! </span> May. 2020. Our paper "Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values" is accepted by *Transportation Research Part C: Emerging Technologies* \[[doi](https://doi.org/10.1016/j.trc.2020.102674)\] -->
-
 <!-- * <span style="color:darkred"> New! </span> Mar. 2020. Our paper "Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction" is accepted by *Transportation Research Part C: Emerging Technologies* \[[doi](https://doi.org/10.1016/j.trc.2020.102620)\] -->
 <!-- * <span style="color:darkred"> New! </span> Mar. 2020. Our paper "Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models " is accepted by *IEEE Transaction on Intelligent Transportation Systems* \[[doi](https://ieeexplore.ieee.org/document/9069477)\] -->
 <!-- * <span style="color:darkred"> New! </span> Feb. 2020. Our paper "An Advanced Framework for Microscopic and Lane-level Macroscopic Traffic Parameters Estimation from UAV Video" is accepted by *IET Intelligent Transport Systems* \[[doi](https://doi.org/10.1049/iet-its.2019.0463)\] -->
 <!-- * <span style="color:darkred"> New! </span> Feb. 2020. Our paper "Two-Stream Multi-Channel Convolutional Neural Network (TM-CNN) for Multi-Lane Traffic Speed Prediction Considering Traffic Volume Impact" is accepted by *Transportation Research Record* \[[doi](https://doi.org/10.1177/0361198120911052)\] -->
-* <span style="color:darkred"> New! </span> Jan. 2020. Our paper \[[Graph Markov Network](https://arxiv.org/abs/1912.05457)\] received <span style="color:darkred;">Student Paper Award</span> from [ASA TSIG](https://community.amstat.org/tsig/home). 
+* Jan. 2020. Our paper \[[Graph Markov Network](https://arxiv.org/abs/1912.05457)\] received <span style="color:darkred;">Student Paper Award</span> from [ASA TSIG](https://community.amstat.org/tsig/home). 
 <!-- * <span style="color:darkred"> New! </span> Oct. 2019. Two first-author and two co-authored papers are accepted for presentation at TRB 2020. -->
 <!-- * <span style="color:darkred"> New! </span> Oct. 2019. I win the Second Prize in the 2019 PacTrans Annual Conference best poster contest. -->
 <!-- * <span style="color:darkred"> New! </span> Oct. 2019. I give a talk at INFORMS 2019 entitled: "Learning Traffic as a Graph: Graph based Neural networks for Network-scale Traffic Prediction" \[[link](https://www.abstractsonline.com/notify/notifyintro.asp?MKey={DA9FD773-1961-4264-8491-297D9CB12146}&NKey={E86BA192-F3B7-46AB-AB2E-573BCB2C8F78})\] -->
@@ -95,7 +98,17 @@ Artificial Intelligence, Large Models, Autonomous Driving, Urban Computing, Traf
     </tr>
   </thead>
 </table>
-* I'm looking for Master and Ph.D. student applicants and undergrad interns. Please feel free to contact me if you are interested in working on "AI + Transportation" topics.
+<ul>
+	<li>I'm looking for <span style="color:red">1~2 Ph.D. student</span> applicants and <span style="color:red">2~4 Undergrad Interns</span> for admission in 2025 and 2026. Please feel free to contact me if you are interested in working on "<span style="color:red"> AI + Transportation</span>" topics, including:</li>
+	<ol>
+		<li><span style="color:blue">Foundation Models for Transportation</span> (LLM, Multimodal-Language Model, etc.)</li> 
+		<li><span style="color:blue">Autonomous Driving</span> (Perception, Prediction, Planning, Decision, Scenario Generation)</li> 
+		<li><span style="color:blue">Spatial-Temporal Intelligence</span> (Urban Computing, Traffic Prediction, Causal Inference)</li> 
+		<li><span style="color:blue">Multi-Agent Learning for Autonomous System</span> (Autonomous Vehicles, Traffic Signal Control, UAVs, Robotics)</li> 
+	</ol>
+</ul>
+
+
 
 
 ## Featured Research
@@ -111,6 +124,135 @@ Artificial Intelligence, Large Models, Autonomous Driving, Urban Computing, Traf
 		</tr>
     </thead>
 	<tbody>
+		<tr id="fan2025sahdrive" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/fan2025sahdrive.png" width="600" class="research_img">
+				<div class="container">
+				SAH-Drive
+				</div>
+				</div>
+			</td>
+			<td>Y Fan, <strong>Z Cui</strong>*, Z Li, Y Ren, H Yu</td>
+			<td>
+				SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('fan2025sahdrive','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('fan2025sahdrive','bibtex')">BibTeX</a>] 
+						[<a href="">PDF</a>]
+						[<a href="">Code (release soon)</a>]
+						<!-- [<a href="https://arxiv.org/pdf/2405.04909">arXiv</a>] -->
+						<!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2025</td>
+			<td>International Conference on Machine Learning (ICML)</td>
+		</tr>
+		<tr id="abs_fan2025sahdrive" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Reliable planning is crucial for achieving autonomous driving. Rule-based planners are efficient but lack generalization, while learning-based planners excel in generalization yet have limitations in real-time performance and interpretability. In long-tail scenarios, these challenges make planning particularly difficult. To leverage the strengths of both rule-based and learning-based planners, we proposed the <strong>Scenario-Aware Hybrid Planner (SAH-Drive)</strong> for closed-loop vehicle trajectory planning. Inspired by human driving behavior, SAH-Drive combines a lightweight rule-based planner and an comprehensive learning-based planner, utilizing a dual-timescale decision neuron to determine the final trajectory. To enhance the computational efficiency and robustness of the hybrid planner, we also employed a diffusion proposal number regulator and trajectory fusion techniques. The experimental results show that the proposed method significantly improves the generalization capability of the planning system, achieving state-of-the-art performance in interPlan, while maintaining computational efficiency without incurring substantial additional runtime.</div></td>
+		</tr>
+		<tr id="bib_fan2025sahdrive" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>
+					release soon
+					</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="cai2025text2scenario" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/cai2025text2scenario.png" width="600" class="research_img">
+				<div class="container">
+				Text2Scenario
+				</div>
+				</div>
+			</td>
+			<td>X Cai, X Bai, <strong>Z Cui</strong>*, D Xie, D Fu, H Yu, Y Ren</td>
+			<td>
+				Text2Scenario: Text-Driven Scenario Generation for Autonomous Driving Test<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('cai2025text2scenario','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('cai2025text2scenario','bibtex')">BibTeX</a>] 
+						[<a href="https://arxiv.org/pdf/2503.02911">PDF</a>]
+						[<a href="https://caixxuan.github.io/Text2Scenario.GitHub.io/">Website</a>]
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						[<a href="https://arxiv.org/abs/2503.02911">arXiv</a>]
+						[<a href="">Code (release soon)</a>]
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+					</p>
+			</td>
+			<td>2025</td>
+			<td>Automotive Innovation</td>
+		</tr>
+		<tr id="abs_cai2025text2scenario" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Autonomous driving (AD) testing constitutes a critical methodology for assessing performance benchmarks prior to product deployment. The creation of segmented scenarios within a simulated environment is acknowledged as a robust and effective strategy; however, the process of tailoring these scenarios often necessitates laborious and time-consuming manual efforts, thereby hindering the development and implementation of AD technologies. In response to this challenge, we introduce Text2Scenario, a framework that leverages a Large Language Model (LLM) to autonomously generate simulation test scenarios that closely align with user specifications, derived from their natural language inputs. Specifically, an LLM, equipped with a meticulously engineered input prompt scheme functions as a text parser for test scenario descriptions, extracting from a hierarchically organized scenario repository the components that most accurately reflect the user's preferences. Subsequently, by exploiting the precedence of scenario components, the process involves sequentially matching and linking scenario representations within a Domain Specific Language corpus, ultimately fabricating executable test scenarios. The experimental results demonstrate that such prompt engineering can meticulously extract the nuanced details of scenario elements embedded within various descriptive formats, with the majority of generated scenarios aligning closely with the user's initial expectations, allowing for the efficient and precise evaluation of diverse AD stacks void of the labor-intensive need for manual scenario configuration. Project page: <a href="https://caixxuan.github.io/Text2Scenario.GitHub.io/">this https URL</a>.</div></td>
+		</tr>
+		<tr id="bib_cai2025text2scenario" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{cai2025text2scenario,
+  title={Text2Scenario: Text-Driven Scenario Generation for Autonomous Driving Test},
+  author={Cai, Xuan and Bai, Xuesong and Cui, Zhiyong and Xie, Danmu and Fu, Daocheng and Yu, Haiyang and Ren, Yilong},
+  journal={Automotive Innovation},
+  year={2025}
+}
+					</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<tr id="jiang2024koma" class="entry">
+			<td>
+				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
+				<div class="polaroid">
+				<img src="../images/research/jiang2024koma.png" width="600" class="research_img">
+				<div class="container">
+				KoMA
+				</div>
+				</div>
+			</td>
+			<td>K Jiang, X Cai, <strong>Z Cui*</strong>, A Li, Y Ren, H Yu, H Yang, D Fu, L Wen, P Cai* </td>
+			<td>
+				KoMA: Knowledge-driven Multi-Agent Framework for Autonomous Driving with Large Language Models<br>
+						<p class="infolinks"> 
+						[<a href="javascript:toggleInfo('jiang2024koma','abstract')">Abstract</a>]
+						[<a href="javascript:toggleInfo('jiang2024koma','bibtex')">BibTeX</a>] 
+						[<a href="https://ieeexplore.ieee.org/abstract/document/10745878">PDF</a>]
+						[<a href="https://arxiv.org/abs/2407.14239">arXiv</a>]
+						[<a href="https://jkmhhh.github.io/KoMA/">Website</a>]
+						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+						[<a href="https://github.com/jkmhhh/KoMA_Code">Code</a>]
+						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+					</p>
+			</td>
+			<td>2024</td>
+			<td>IEEE Transactions on Intelligent Vehicles</td>
+		</tr>
+		<tr id="abs_jiang2024koma" class="abstract noshow">
+			<td colspan="5"><div align="justify"> <b>Abstract</b>: Large language models (LLMs) as autonomous agents offer a novel avenue for tackling real-world challenges through a knowledge-driven manner. These LLM-enhanced methodologies excel in generalization and interpretability. However, the complexity of driving tasks often necessitates the collaboration of multiple, heterogeneous agents, underscoring the need for such LLM-driven agents to engage in cooperative knowledge sharing and cognitive synergy. Despite the promise of LLMs, current applications predominantly center around single agent scenarios. To broaden the horizons of knowledge-driven strategies and bolster the generalization capabilities of autonomous agents, we propose the KoMA framework consisting of multi-agent interaction, multi-step planning, shared-memory, and ranking-based reflection modules to enhance multi-agents' decision-making in complex driving scenarios. Based on the framework's generated text descriptions of driving scenarios, the multi-agent interaction module enables LLM agents to analyze and infer the intentions of surrounding vehicles, akin to human cognition. The multi-step planning module enables LLM agents to analyze and obtain final action decisions layer by layer to ensure consistent goals for short-term action decisions. The shared memory module can accumulate collective experience to make superior decisions, and the ranking-based reflection module can evaluate and improve agent behavior with the aim of enhancing driving safety and efficiency. The KoMA framework not only enhances the robustness and adaptability of autonomous driving agents but also significantly elevates their generalization capabilities across diverse scenarios. Empirical results demonstrate the superiority of our approach over traditional methods, particularly in its ability to handle complex, unpredictable driving environments without extensive retraining.</div></td>
+		</tr>
+		<tr id="bib_jiang2024koma" class="bibtex noshow">
+			<td colspan="5"><b>BibTeX</b>:
+					<pre>@article{jiang2024koma,
+  title={Koma: Knowledge-driven multi-agent framework for autonomous driving with large language models},
+  author={Jiang, Kemou and Cai, Xuan and Cui, Zhiyong and Li, Aoyong and Ren, Yilong and Yu, Haiyang and Yang, Hao and Fu, Daocheng and Wen, Licheng and Cai, Pinlong},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2024},
+  publisher={IEEE}
+}</pre>
+			</td>
+    	</tr>
+		<!-- Item Finished -->
+		<!-- Item Finished -->
+		<!-- Item Finished -->
 		<tr id="li2024steering" class="entry">
 			<td>
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
@@ -128,10 +270,10 @@ Artificial Intelligence, Large Models, Autonomous Driving, Urban Computing, Traf
 						[<a href="javascript:toggleInfo('li2024steering','abstract')">Abstract</a>]
 						[<a href="javascript:toggleInfo('li2024steering','bibtex')">BibTeX</a>] 
 						[<a href="https://ieeexplore.ieee.org/abstract/document/10595852">PDF</a>]
-						<!-- [<a href="https://arxiv.org/pdf/2405.04909">arXiv</a>] -->
-						<!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+						<!-- [<a href="https://arxiv.org/abs/2503.02911">arXiv</a>] -->
+						<!-- [<a href="https://caixxuan.github.io/Text2Scenario.GitHub.io/">Website</a>] -->
 						<!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
-						<!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+						<!-- [<a href="">Code (release soon)</a>] -->
 						<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
 					</p>
 			</td>
@@ -1092,39 +1234,3 @@ publisher={Elsevier}
       	</tr>
 	</tbody>
 </table>
-
-## Teaching
-
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
-
-<dl>
-  <dt> <strong>Instructor</strong></dt>
-  <dd> - Machine Learning and Smart Transportation Applications @BUAA -- Fall 2024 </dd>
-  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - [Course Website Coming Soon] - Fall 2024</dd>
-  <dd> - Artificial Intelligence @BUAA -- Spring 2023 - 2024 </dd>
-  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - [<a href="https://zhiyongcui.com/TAI-2024">Course Website</a>] - Fall 2024</dd>
-  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - [<a href="https://zhiyongcui.com/TAI">Course Website</a>] - Fall 2023</dd>
-  <dd> - Transportation Big Data Technology @BUAA</dd>
-  <!-- <dd> - CEE412/CET522: Transportation Data Management and Visualization @UW--Winter 2020-2021</dd> -->
-  <!-- <dd> &nbsp;&nbsp;&nbsp;&nbsp; - 44 undergrads and grads; rating: 4.1/5.0 </dd> -->
-  <dd> - CEE412/CET522: Transportation Data Management and Visualization  @UW</dd>
-  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - [<a href="https://zhiyongcui.com/CEE412_CET522/">Course Website</a>] - Winter 2020-2021</dd>
-  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - <span style="color:darkred;">CEE Department Chair's Award</span></dd>
-  <dd> &nbsp;&nbsp;&nbsp;&nbsp; - Course project gallery [<a href="https://zhiyongcui.com/CEE412_CET522/docs/gallery/">Gallery</a>] </dd>
-  <!-- <dd> &nbsp;&nbsp;&nbsp;&nbsp; - 50 undergrads and grads; rating: 4.1/5.0 </dd> -->
-  <dt> <strong>Guest Lecture</strong></dt>
-  <dd> - CEE 412/CET 512: Transportation Data Management -- Winter 2019</dd>
-  <dd> - Engineering Discovery Days, University of Washington -- Spring 2017, 2018, 2019</dd>
-  <dt> <strong>Teach Assistant</strong></dt>
-  <dd> - CEE 412 / CET 512: Transportation Data Management, UW, Winter 2019</dd>
-</dl>
-<!-- <ul>
-  <li><a href="https://zhiyongcui.com/CEE412_CET522/">CEE 412/CET 522: Transportation Data Management and Visualization</a> -- Winter 2020 (Instructor)[<a href="https://zhiyongcui.com/CEE412_CET522/">Gallery</a>]</li>
-</ul>
- -->
