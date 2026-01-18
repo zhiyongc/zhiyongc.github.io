@@ -34,12 +34,16 @@ Artificial Intelligence, Large Models, Autonomous Driving, Urban Computing, Traf
     </tr>
   </thead>
 </table>
-* <span style="color:darkred"> New! </span> May. 2025. One Paper [<span style="color:blue">SAH-Drive</span>] is accepted by <span style="color:red">ICML 2025</span>. Congrats, Yuqi Fan！
-* <span style="color:darkred"> New! </span> Mar. 2025. One Paper [<a href="https://arxiv.org/abs/2409.12997">VCAT</a>] is accpeted in <span style="color:red">IEEE Intelligent Vehicles Symposium (IV) 2025</span>. Congrats, Xuan Cai！
-* <span style="color:darkred"> New! </span> Mar. 2025. One Paper [<a href="https://caixxuan.github.io/Text2Scenario.GitHub.io/">Text2Scenario</a>] is accepted by <span style="color:red">Automotive Innovation</span>. Congrats, Xuan Cai！
-* <span style="color:darkred"> New! </span> Nov. 2024. One Paper [<a href="https://jkmhhh.github.io/KoMA/">KoMA</a>] is published in <span style="color:red">IEEE TIV</span>. Congrats, Kemo Jiang！
-* <span style="color:darkred"> New! </span> Oct. 2024. One Paper [<a href="https://arxiv.org/abs/2412.13607">PreMixer</a>] will be presented in <span style="color:red">TRB 2025</span>. Congrats, Tongtong Zhang！
-* <span style="color:darkred"> New! </span> Sept. 2024. Dr. Zhiyong Cui was recognized as <span style="color:darkred">Stanford/Elsevier Top 2% Scientists</span> in 2024.
+* <span style="color:darkred"> New! </span> Dec. 2025. One Paper [<a href="https://doi.org/10.1016/j.trc.2025.105265">MoTIF</a>] about multimodal road traffic scene understanding foundation model is accepted by <span style="color:red">COMMTR</span>.
+* <span style="color:darkred"> New! </span> Oct. 2025. One Paper [<a href="https://doi.org/10.1016/j.trc.2025.105265">Is cooperative always better?</a>] about network-wide traffic signal control is accepted by <span style="color:red">TR-C</span>. 
+* <span style="color:darkred"> New! </span> Sept. 2025. Dr. Zhiyong Cui was recognized as <span style="color:darkred">Stanford/Elsevier Top 2% Scientists</span> in 2024 & 2025.
+* <span style="color:darkred"> New! </span> Jun. 2025. One Paper [<a href="https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Authentic_4D_Driving_Simulation_with_a_Video_Generation_Model_ICCV_2025_paper.html">Authentic 4D Driving Simulation with a Video Generation Model</a>] is accepted by <span style="color:red">ICCV 2025</span>. 
+* <span style="color:darkred"> New! </span> May. 2025. One Paper [<a href="https://arxiv.org/abs/2505.24390">SAH-Drive</a>] is accepted by <span style="color:red">ICML 2025</span>. 
+* <span style="color:darkred"> New! </span> Mar. 2025. One Paper [<a href="https://arxiv.org/abs/2409.12997">VCAT</a>] is accpeted in <span style="color:red">IEEE Intelligent Vehicles Symposium (IV) 2025</span>. 
+* <span style="color:darkred"> New! </span> Mar. 2025. One Paper [<a href="https://caixxuan.github.io/Text2Scenario.GitHub.io/">Text2Scenario</a>] is accepted by <span style="color:red">Automotive Innovation</span>. 
+* <span style="color:darkred"> New! </span> Nov. 2024. One Paper [<a href="https://jkmhhh.github.io/KoMA/">KoMA</a>] is published in <span style="color:red">IEEE TIV</span>. 
+<!-- * <span style="color:darkred"> New! </span> Oct. 2024. One Paper [<a href="https://arxiv.org/abs/2412.13607">PreMixer</a>] will be presented in <span style="color:red">TRB 2025</span>.  -->
+<!-- * <span style="color:darkred"> New! </span> Sept. 2024. Dr. Zhiyong Cui was recognized as <span style="color:darkred">Stanford/Elsevier Top 2% Scientists</span> in 2024. -->
 * <span style="color:darkred"> New! </span> Jun. 2024. Our Paper [[AccidentGPT](https://arxiv.org/abs/2312.13156)\] received the <span style="color:darkred">Best Paper Award</span> from the [IEEE T-IV & IV 24 Joint Workshop on Foundation Intelligence for Intelligent Vehicles](https://ieee-iv.org/2024/t-iv-iv-24-joint-workshop/).
 *  Dec. 2023. Our Paper [[ATT_FLAV](https://www.sciencedirect.com/science/article/pii/S0957417423007972)\] received the <span style="color:darkred">KIKUCHI-KARLAFTIS 2023 Best Paper Award from TRB AI Committee</span>. 
 <!-- * <span style="color:darkred"> New! </span> Mar. 2023. I start to work as a Professor in the [School of Transportation Science and Engineering](https://transportation.buaa.edu.cn/szdw/szdw/jtysgcx.htm) at Beihang University.  -->
